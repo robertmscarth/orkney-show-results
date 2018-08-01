@@ -1,0 +1,6 @@
+#!/bin/bash
+makeindex ShowResults-beef
+makeindex ShowResults-sheep
+makeindex ShowResults-horse
+makeindex ShowResults-exhibitor
+

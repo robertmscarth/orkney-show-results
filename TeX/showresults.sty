@@ -1,0 +1,35 @@
+
+\renewcommand\maketitle{\begin{titlepage}
+  \let\footnotesize\small
+  \let\footnoterule\relax
+  \let \footnote \thanks
+  \null\vfil
+  \vskip 20\p@
+  \begin{center}
+    {\Huge\bf \@title \par}
+    \vskip 3em
+    {\Large
+     \lineskip .75em
+      \begin{tabular}[t]{c}
+        compiled by\\
+        \lineskip 3em
+        \lineskip 3em
+        \bf\@author\\[12pt]
+        \lineskip 3em
+        \lineskip 3em
+       \href{https://sites.google.com/view/orkneyshowresults}{\texttt{https://sites.google.com/view/orkneyshowresults}}\\
+      \end{tabular}\par}
+      \vskip 8.5em
+      \vskip 3em
+    {\large \@date \par}       % Set date in \large size.
+	\vskip 3.5em
+	\copyright \@author \,2003-2018\\
+	Licensed under the Creative Commons \\Attribution-ShareAlike $4.0$ International License
+  \end{center}\par
+  \@thanks
+  \vfil\null
+  \end{titlepage}
+}
+
+\endinput
+

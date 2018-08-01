@@ -1,0 +1,161 @@
+\documentclass[a4paper,11pt]{report}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{longtable,lscape,multirow}
+\usepackage{showresults}
+\usepackage[pdftex]{hyperref}
+\usepackage[split]{splitidx}
+\makeindex
+\newindex[Beef cattle name index]{beef}
+\newindex[Sheep name index]{sheep}
+\newindex[Horse name index]{horse}
+\newindex[Exhibitor index]{exhibitor}
+% To create the index, run this file, then run the file `BatchMakeIndex` from the command line, then rerun this file
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `basename #1 .tif`.png}
+
+%\textwidth = 6.5 in
+%\textheight = 9 in
+%\oddsidemargin = 0.0 in
+%\evensidemargin = 0.0 in
+%\topmargin = 0.0 in
+%\headheight = 0.0 in
+%\headsep = 0.0 in
+%\parskip = 0.2in
+%\parindent = 0.0in
+
+%\includeonly{Dounby/Main,County/Main}
+
+\title{Orkney Show Results $1936 - 2011$}
+\author{Robert Scarth}
+\begin{document}
+	\maketitle
+	\newpage
+	
+	\vbox to \textheight{ \vfil
+	\begin{center}
+	``...my work consists of two parts: of the one which is here, and of everything which I have not written. And precisely this second part is the important one.'' \\
+	 - Ludwig Wittgenstein, letter to Ludwig von Ficker, 1919
+	\end{center}
+	\vfil}
+	
+	\newpage
+	
+		\tableofcontents
+	
+	\newpage
+
+		\listoffigures
+		
+	\newpage
+
+		
+	I compiled these tables of previous prize winners at the Orkney shows from old show reports in \emph{The Orcadian}, and \emph{Orkney Today}. They probably contain errors. If you spot any errors I'd be grateful if you could let me know by contacting me through the facebook page. You can download these tables from \href{https://sites.google.com/view/orkneyshowresults}{\texttt{https://sites.google.com/view/orkneyshowresults}}. This is still very much a work-in-progress, and I'll add to it as and when I have the time.\\
+\\
+Robert Scarth, \\
+Birsay, \\
+%London, \\
+\today
+
+\newpage
+	\section*{Copyright notice}
+	This work is licensed under the Creative Commons Attribution-ShareAlike $4.0$ International License. To view a copy of this license, visit \newline \href{http://creativecommons.org/licenses/by-sa/4.0/}{\texttt{http://creativecommons.org/licenses/by-sa/4.0/}}.
+	
+	\subsection*{You are free to:}
+	\begin{itemize}
+		\item \textbf{Share} - copy and redistribute the material in any medium or format
+		\item \textbf{Adapt} - remix, transform, and build upon the material for any purpose, even commercially.
+	\end{itemize}
+	The licensor cannot revoke these freedoms as long as you follow the license terms.\\ 
+	\subsection*{Under the following terms:}
+	\begin{itemize}
+		\item \textbf{Attribution} - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+		\item \textbf{Share Alike} - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+	\end{itemize}
+	\textbf{No additional restrictions} - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+	\subsection*{Notices:}
+	You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+	
+	No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+\newpage
+
+	\section*{Abbreviations}
+	We use the following abbreviations for the various breeds:
+	\subsection*{Beef Cattle}
+	\begin{tabular}{cl}
+		AA & Aberdeen Angus \\
+		BB & Belgian Blue \\
+		CH & Charolais \\
+		LG & Luing \\
+		LM & Limousin \\
+		SH & Shorthorn\\
+		SM & Simmental \\
+	\end{tabular}
+
+	\subsection*{Dairy Cattle}
+	\begin{tabular}{cl}
+		
+	\end{tabular}
+	
+	\subsection*{Sheep}
+	\begin{tabular}{cl}
+		BL & Border Leicester \\
+		CHV & Cheviot \\
+		CHL & Charollais \\
+		HB & Half-bred \\
+		SF & Suffolk \\
+		TX & Texel \\
+	\end{tabular}
+
+	\subsection*{Horses}
+	\begin{tabular}{cl}
+		
+	\end{tabular}
+
+	\subsection*{Goats}
+	\begin{tabular}{cl}
+		
+	\end{tabular}
+
+	\subsection*{Poultry}
+	\begin{tabular}{cl}
+		
+	\end{tabular}
+
+	\subsection*{Dogs}
+	\begin{tabular}{cl}
+		
+	\end{tabular}
+
+\newpage
+
+	%use more of the paper for tables
+	\addtolength{\textwidth}{3cm}
+	\addtolength{\oddsidemargin}{-1.5cm}
+	
+	\begin{landscape}
+		\include{County/Main}
+		\include{Dounby/Main}
+		\include{EastMainland/Main}
+		\include{Sanday/Main}
+		\include{Shapinsay/Main}
+		\include{Hope/Main}
+		\include{Longhope/Main}
+		\include{Rousay/Main}
+		\include{Eday/Main}
+		\include{Burray/Main}
+		\include{Stronsay/Main}
+		\include{Westray/Main}
+	\end{landscape}
+		\include{Sources/Main}
+	
+		%back to normal width for bibliography and indices
+		\addtolength{\textwidth}{-3cm}
+		\addtolength{\oddsidemargin}{+1.5cm}
+
+		%bibliography{}
+		\printindex*
+
+\end{document}
