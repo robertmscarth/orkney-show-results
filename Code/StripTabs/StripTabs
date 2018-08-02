@@ -21,5 +21,12 @@ while($SOURCE=<PARAMETERS>) {				# read in path of file containing source data
 		$datarow =~ s/\t+/\t/gs;	# replace all runs of > 1 tab with a single tab
 		print TABLEOUT "$datarow\n";
 	}
+
+	# close the source and the output files
+	close(SOURCE);
+	close(TABLEOUT);
 }
+
+# close the file containing the file paths
+close(PARAMETERS);
 
