@@ -1,8 +1,6 @@
 # ignore the following directories
-Code/
-Misc/
+Code/Tests/
 old/
-Perth_Bull_Sales/
 
 # ignore files with the following extensions as they are automatically created by TeX
 *.aux
