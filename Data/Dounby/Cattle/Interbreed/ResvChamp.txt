@@ -3,7 +3,11 @@ Year	Exhibitor	Champion	Name	Notes
 1937	R. Learmonth, Saither, Dounby	AA cow	-	Dam of champion.
 1938	R. Learmonth, Saither, Dounby	AA cow	-	-
 1939	Mr Ernest W. Flett, Smith's Dounby	blue cross cow	-	-
-1940-1944	No show due to war.
+1940	No show due to war.
+1941	No show due to war.
+1942	No show due to war.
+1943	No show due to war.
+1944	No show due to war.
 1945	G. Corrigal, West Ballarat, Harray	-	-	-
 1946	R. Ritch & Son	-	-	-
 1947	Mrs Spence, Schoolhouse, Birsay	-	-	-

@@ -3,7 +3,11 @@ Year	Exhibitor	Champion	Name	Notes
 1937	J. R. Scott, Livaness	black polled cow	-	-
 1938	J. R. Scott, Livaness	polled cow	-	-
 1939	J. R. Scott, Livaness	polled cow	-	-
-1940-1944	No show due to war.
+1940	No show due to war.
+1941	No show due to war.
+1942	No show due to war.
+1943	No show due to war.
+1944	No show due to war.
 1945	W. Bews, Quoymorhouse	-	-	-
 1946	J. R. Scott, Livaness	-	-	-
 1947	J. R. Scott, Livaness	-	-	-
