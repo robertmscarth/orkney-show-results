@@ -1,28 +1,27 @@
-County Show Charolais Champions 1978-present
-Year	Exhibitor					Champion		Name				Notes
-1978	W. R. Baillie, Biggings, Toab			4yo bull		Wincote Jasper			By Bent Caribineer; bred by Lord Nelson of Stafford; bought at Northampton for 950gns; supreme champion in 1978 & 1982.
-1979		No entries forward.
-1980	W. R. Baillie, Biggings, Toab			6yo bull		Wincote Jasper			By Bent Caribineer; bred by Lord Nelson of Stafford; bought at Northampton for 950gns; supreme champion in 1978 & 1982.
-1981	W. R. Baillie, Biggings, Toab			7yo bull		Wincote Jasper
-1982	W. R. Baillie, Biggings, Toab			8yo bull		Wincote Jasper			
-1983	W. R. Baillie, Biggings, Toab			-			-				-
-1984	W. R. Baillie, Biggings, Toab			10mo bull*		Ballieston Universe		By Wincote Jasper, out of Sway Ninette.
-1985	G. T. & S. Coghill, Muce, Birsay		3yo cow in calf		Mornview Tamar			By Tattenhall Hublot, out of a Mornview cow.
-1986	W. G. Kirkpatrick & Sons, Newhall, Stromness	3yo bull		Ballieston Universe		By Wincote Jasper, out of Sway Ninette.
-1987	G. T. & S. Coghill, Muce, Birsay		8mo bull		Hekra Challenger		By Fairthwaite Magic, out of Hekra Vera.
-1988	W. R. Baillie, Biggings, Toab			4yo cow*		Ballieston Vaila		By Lunsdale Harvest, out of Ballieston Snowflake.
-1989	J. M. Lennie & Co, Nearhouse, Tankerness	5yo cow in calf		Little Gill Verity		By Tatton Hall Hublot, out of Hole Moor Rebecca.
-1990	D. W. Sinclair & Co, Unigarth, Sandwick		2yo bull		Royston Democrat		By Glenleary Attenhall.
-1991	J. M. Lennie & Co, Nearhouse, Tankerness	7yo cow			Balthayock Violet		By Balthayock Oliver.
-1992	J. M. Lennie & Co, Nearhouse, Tankerness	9yo cow in milk		Little Gill Verity		By Tattenhall Hiblot, out of Holehouse Rebecca.
-1993	W. R. Baillie, Biggings, Toab			18mo heifer*		Ballieston Helga		By Ballieston Donald, out of Ballieston Catherine.
-1994	W. R. Baillie, Biggings, Toab			18mo bull*		Ballieston Howard		By Cockrington Baron, out of Ballieston Frances.
-1995	W. R. Baillie, Biggings, Toab			15mo heifer*		Ballieston Jacqueline		By Fleets Rascal, out of Ballieston Donna.
-1996	W. R. Baillie, Biggings, Toab			20mo heifer*		Ballieston Jacqueline		By Fleets Rascal, out of Ballieston Donna.
-1997	J. A. Scott, Howe, Harray			6yo bull		Seawell Goutte			By Seawell Caribbean; bought at Perth as a 13mo.
-1998	G. T. & S. Coghill, Muce, Birsay		5yo cow in milk		New Moan Iris			By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray, in October 1997.
-1999	Garson Farms, Sandwick				6yo cow*		Garson Isla			By Brampton Consort, out of Gredington Caniche.
-2000	W. R. Baillie, Biggings, Toab			7yo dry cow*		Ballieston Ingrid		By Maerdy Victorious, out of Ballieston Ursula.
-2001		No Show due to Foot & Mouth outbreak.
-2002	L. Spence, Spengar, Sandwick			16mo bull*		Spengar Sambhar			By Brampton Four Star, out of Mortimer's Lauren.
-2003	Garson Farms, Sandwick				1yo heifer		Airdlin Treasure		By Airdlin Ploughman, out of Maerdy Limpet; bought at Perth February 2003.
+Year	Exhibitor	Champion	Name	Notes
+1978	W. R. Baillie, Biggings, Toab	4yo bull	Wincote Jasper	By Bent Caribineer; bred by Lord Nelson of Stafford; bought at Northampton for 950gns; supreme champion in 1978 & 1982.
+1979	No entries forward.
+1980	W. R. Baillie, Biggings, Toab	6yo bull	Wincote Jasper	By Bent Caribineer; bred by Lord Nelson of Stafford; bought at Northampton for 950gns; supreme champion in 1978 & 1982.
+1981	W. R. Baillie, Biggings, Toab	7yo bull	Wincote Jasper
+1982	W. R. Baillie, Biggings, Toab	8yo bull	Wincote Jasper	
+1983	W. R. Baillie, Biggings, Toab	-	-	-
+1984	W. R. Baillie, Biggings, Toab	10mo bull*	Ballieston Universe	By Wincote Jasper, out of Sway Ninette.
+1985	G. T. & S. Coghill, Muce, Birsay	3yo cow in calf	Mornview Tamar	By Tattenhall Hublot, out of a Mornview cow.
+1986	W. G. Kirkpatrick & Sons, Newhall, Stromness	3yo bull	Ballieston Universe	By Wincote Jasper, out of Sway Ninette.
+1987	G. T. & S. Coghill, Muce, Birsay	8mo bull	Hekra Challenger	By Fairthwaite Magic, out of Hekra Vera.
+1988	W. R. Baillie, Biggings, Toab	4yo cow*	Ballieston Vaila	By Lunsdale Harvest, out of Ballieston Snowflake.
+1989	J. M. Lennie & Co, Nearhouse, Tankerness	5yo cow in calf	Little Gill Verity	By Tatton Hall Hublot, out of Hole Moor Rebecca.
+1990	D. W. Sinclair & Co, Unigarth, Sandwick	2yo bull	Royston Democrat	By Glenleary Attenhall.
+1991	J. M. Lennie & Co, Nearhouse, Tankerness	7yo cow	Balthayock Violet	By Balthayock Oliver.
+1992	J. M. Lennie & Co, Nearhouse, Tankerness	9yo cow in milk	Little Gill Verity	By Tattenhall Hiblot, out of Holehouse Rebecca.
+1993	W. R. Baillie, Biggings, Toab	18mo heifer*	Ballieston Helga	By Ballieston Donald, out of Ballieston Catherine.
+1994	W. R. Baillie, Biggings, Toab	18mo bull*	Ballieston Howard	By Cockrington Baron, out of Ballieston Frances.
+1995	W. R. Baillie, Biggings, Toab	15mo heifer*	Ballieston Jacqueline	By Fleets Rascal, out of Ballieston Donna.
+1996	W. R. Baillie, Biggings, Toab	20mo heifer*	Ballieston Jacqueline	By Fleets Rascal, out of Ballieston Donna.
+1997	J. A. Scott, Howe, Harray	6yo bull	Seawell Goutte	By Seawell Caribbean; bought at Perth as a 13mo.
+1998	G. T. & S. Coghill, Muce, Birsay	5yo cow in milk	New Moan Iris	By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray, in October 1997.
+1999	Garson Farms, Sandwick	6yo cow*	Garson Isla	By Brampton Consort, out of Gredington Caniche.
+2000	W. R. Baillie, Biggings, Toab	7yo dry cow*	Ballieston Ingrid	By Maerdy Victorious, out of Ballieston Ursula.
+2001	No Show due to Foot & Mouth outbreak.
+2002	L. Spence, Spengar, Sandwick	16mo bull*	Spengar Sambhar	By Brampton Four Star, out of Mortimer's Lauren.
+2003	Garson Farms, Sandwick	1yo heifer	Airdlin Treasure	By Airdlin Ploughman, out of Maerdy Limpet; bought at Perth February 2003.

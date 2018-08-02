@@ -1,66 +1,65 @@
-Shapinsay Show Supreme Cattle Champions 1970-present
-Year	Exhibitor				Champion				Name			Notes
-1936	J. R. Scott, Livaness			polled cow				-			-
-1937	J. R. Scott, Livaness			black polled cow			-			-
-1938	J. R. Scott, Livaness			polled cow				-			-
-1939	J. R. Scott, Livaness			polled cow				-			-
+Year	Exhibitor	Champion	Name	Notes
+1936	J. R. Scott, Livaness	polled cow	-	-
+1937	J. R. Scott, Livaness	black polled cow	-	-
+1938	J. R. Scott, Livaness	polled cow	-	-
+1939	J. R. Scott, Livaness	polled cow	-	-
 1940-1944	No show due to war.
-1945	W. Bews, Quoymorhouse			-					-			-
-1946	J. R. Scott, Livaness			-					-			-
-1947	J. R. Scott, Livaness			-					-			-
-1948	W. T. Wood & Sons, Balfour Mains	cow					-			-
-1949	D. Work & Son, Ness			-					-			-
-1950	J. R. Scott, Livaness			cross cow				-			-
-1951	A. A. Learmonth, Howe			3yo blue-grey stot			-			-
-1952	A. A. Learmonth, Howe			3yo black stot				-			-
-1953	A. A. Learmonth, Howe			3yo red polled stot			-			-
-1954	A. A. Learmonth, Howe			red polled cow				-			-
-1955	W. Rendall, Nisthouse			red polled cow in calf			-			-
-1956	D. Work & Son, Ness			2yo black cross heifer in calf		-			-
-1957	A. A. Learmonth, Howe			cross polled heifer in calf		-			-
-1958	R. Johnston, Hewan			3yo black cross polled cow		-			-
-1959	R. Johnston, Hewan			black cross cow in calf			-			-
-1960	A. A. Learmonth, Howe			3yo cross polled black cow*		-			Same animal champion for three years.
-1961	A. A. Learmonth, Howe			4yo cross polled black cow*		-			
-1962	A. A. Learmonth, Howe			5yo cross polled black cow*		-
-1963	A. A. Learmonth, Howe			18mo black cross stot			-			By Douneside AA bull, out of SH cow.
-1964	A. A. Learmonth, Howe			7yo cross polled black cow		-			Hinted, but not made clear, that this is the same animal as was champion 1960-63.
-1965	A. A. Learmonth, Howe			8yo cross polled black cow		-
-1966	A. A. Learmonth, Howe			2yo blue-grey stot			-			-
-1967	D. Work & Son, Ness			4yo cross polled black cow in calf*	-			By a Fordhouse bull; same animal champion for three years.
-1968	D. Work & Son, Ness			5yo cross polled black cow in calf*	-
-1969	D. Work & Son, Ness			6yo cross polled black cow in calf*	-		
-1970	D. Work & Son, Ness			3yo cross black polled cow in calf	-			By Jewra Eric of Buchaam; champion at 1969 County Show.
-1971	D. Work & Son, Ness			8yo cross polled cow			-			By Fordhouse bull; previous champion; cross champion at 1970 County Show.
-1972	A. A. Learmonth, Howe			2yo black polled cross stot*		-			-
-1973	A. A. Learmonth, Howe			calves teeth black polled stot*		-			-
-1974	D. Work & Son, Ness			5yo blue-grey cow in milk*		-			By Jura Eric of Buchan.
-1975	A. A. Learmonth, Howe			two teeth black cross stot		-			By Pompous of Balmyre, out of AAx cow.
-1976	R. & J. Johnson, Hewan			5yo black polled cow			-			By SH bull; champion cow in 1975.
-1977	J. Seatter & Son, Strathore		5yo HF bull				Firland's Diamond	By Firland's Lustre; bought at Edinburgh sale for 1200gns.
-1978	D. Work & Son, Ness			7yo black cross cow*			-			By Cavans Pablo, out of homebred cross cow.
-1979	D. Work & Son, Ness			8yo black cross cow*			-			
-1980	D. Work & Son, Ness			9yo black cross cow*			-			
-1981		?	
-1982	R. & J. Johnson, Hewan			16mo heifer*				Lane Balou		By 3/4 CH bull Napoleon, out of SMx cow.
-1983	R. & J. Johnson, Hewan			2yo heifer*				Lane Balou		
-1984	R. & J. Johnson, Hewan			1yo CHx heifer*				Crystal			By Chesham Joseph, out of homebred SMx cow.
-1985	R. & J. Johnson, Hewan			2yo CHx heifer*				Crystal			
-1986	R. & J. Johnson, Hewan			5yo CHx cow*				Lane Balou		By 3/4 CH bull Napoleon, out of SMx cow; champion in 1982 & 1983.
-1987	R. & J. Johnson, Hewan			6yo CHx cow*				Lane Balou		
-1988	R. & J. Johnson, Hewan			6yo CHx cow				-			By CH bull, out of SMx cow.
-1989	R. & J. Johnson, Hewan			5yo CHx cow*				Crystal			By Chesham Joseph, out of homebred SMx cow; previous champion.
-1990	Muir & Son, Gorn			15mo LMx heifer				-			By Hartside Underwood, out of CH cow.
-1991	R. & J. Johnson, Hewan			8yo CHx cow*				Crystal			By Chesham Joseph, out of homebred SMx cow; previous champion.
-1992	R. & J. Johnson, Hewan			2yo in calf heifer			-			By Newhouse Banker, out of LMx cow.
-1993	R. & J. Johnson, Hewan			9yo CHx cow*				Crystal			By Chesham Joseph, out of homebred SMx cow; previous champion.
-1994	R. & J. Johnson, Hewan			2yo LMx heifer				-			By Uppermill Dominator, out of LMx cow.
-1995	Muir & Son, Gorn			LMx heifer calf				-			By Duke's Canton, out of LMx cow.
-1996	R. & J. Johnson, Hewan			4yo LMx cow				-			By Uppermill Dominator, out of LMx cow; champion in 1994.
-1997	Muir & Son, Gorn			LM heifer calf				Muirwood Mona		By Heartside Ideal, out of Muirwood Iona.
-1998	R. & J. Johnson, Hewan			2yo LMx heifer in calf			-			By Knockenbaird Iran.
-1999	R. & J. Johnson, Hewan			9yo LMx cow				-			By Newhouse Baker, out of cross cow.
-2000	T. & J. Leslie, Quoymorhouse		18mo LMx stot*				-			By Shire Lonesome, out of LMx cow.
-2001		No show due to Foot & Mouth outbreak.
-2002	R. & J. Johnson, Hewan			black heifer in calf			Tilly			-
-2003	T. & J. Leslie, Quoymorhouse		15mo LMx heifer*			Mystique		By Roughly Indian, out of LMxBB cow.
+1945	W. Bews, Quoymorhouse	-	-	-
+1946	J. R. Scott, Livaness	-	-	-
+1947	J. R. Scott, Livaness	-	-	-
+1948	W. T. Wood & Sons, Balfour Mains	cow	-	-
+1949	D. Work & Son, Ness	-	-	-
+1950	J. R. Scott, Livaness	cross cow	-	-
+1951	A. A. Learmonth, Howe	3yo blue-grey stot	-	-
+1952	A. A. Learmonth, Howe	3yo black stot	-	-
+1953	A. A. Learmonth, Howe	3yo red polled stot	-	-
+1954	A. A. Learmonth, Howe	red polled cow	-	-
+1955	W. Rendall, Nisthouse	red polled cow in calf	-	-
+1956	D. Work & Son, Ness	2yo black cross heifer in calf	-	-
+1957	A. A. Learmonth, Howe	cross polled heifer in calf	-	-
+1958	R. Johnston, Hewan	3yo black cross polled cow	-	-
+1959	R. Johnston, Hewan	black cross cow in calf	-	-
+1960	A. A. Learmonth, Howe	3yo cross polled black cow*	-	Same animal champion for three years.
+1961	A. A. Learmonth, Howe	4yo cross polled black cow*	-	
+1962	A. A. Learmonth, Howe	5yo cross polled black cow*	-
+1963	A. A. Learmonth, Howe	18mo black cross stot	-	By Douneside AA bull, out of SH cow.
+1964	A. A. Learmonth, Howe	7yo cross polled black cow	-	Hinted, but not made clear, that this is the same animal as was champion 1960-63.
+1965	A. A. Learmonth, Howe	8yo cross polled black cow	-
+1966	A. A. Learmonth, Howe	2yo blue-grey stot	-	-
+1967	D. Work & Son, Ness	4yo cross polled black cow in calf*	-	By a Fordhouse bull; same animal champion for three years.
+1968	D. Work & Son, Ness	5yo cross polled black cow in calf*	-
+1969	D. Work & Son, Ness	6yo cross polled black cow in calf*	-	
+1970	D. Work & Son, Ness	3yo cross black polled cow in calf	-	By Jewra Eric of Buchaam; champion at 1969 County Show.
+1971	D. Work & Son, Ness	8yo cross polled cow	-	By Fordhouse bull; previous champion; cross champion at 1970 County Show.
+1972	A. A. Learmonth, Howe	2yo black polled cross stot*	-	-
+1973	A. A. Learmonth, Howe	calves teeth black polled stot*	-	-
+1974	D. Work & Son, Ness	5yo blue-grey cow in milk*	-	By Jura Eric of Buchan.
+1975	A. A. Learmonth, Howe	two teeth black cross stot	-	By Pompous of Balmyre, out of AAx cow.
+1976	R. & J. Johnson, Hewan	5yo black polled cow	-	By SH bull; champion cow in 1975.
+1977	J. Seatter & Son, Strathore	5yo HF bull	Firland's Diamond	By Firland's Lustre; bought at Edinburgh sale for 1200gns.
+1978	D. Work & Son, Ness	7yo black cross cow*	-	By Cavans Pablo, out of homebred cross cow.
+1979	D. Work & Son, Ness	8yo black cross cow*	-	
+1980	D. Work & Son, Ness	9yo black cross cow*	-	
+1981	?	
+1982	R. & J. Johnson, Hewan	16mo heifer*	Lane Balou	By 3/4 CH bull Napoleon, out of SMx cow.
+1983	R. & J. Johnson, Hewan	2yo heifer*	Lane Balou	
+1984	R. & J. Johnson, Hewan	1yo CHx heifer*	Crystal	By Chesham Joseph, out of homebred SMx cow.
+1985	R. & J. Johnson, Hewan	2yo CHx heifer*	Crystal	
+1986	R. & J. Johnson, Hewan	5yo CHx cow*	Lane Balou	By 3/4 CH bull Napoleon, out of SMx cow; champion in 1982 & 1983.
+1987	R. & J. Johnson, Hewan	6yo CHx cow*	Lane Balou	
+1988	R. & J. Johnson, Hewan	6yo CHx cow	-	By CH bull, out of SMx cow.
+1989	R. & J. Johnson, Hewan	5yo CHx cow*	Crystal	By Chesham Joseph, out of homebred SMx cow; previous champion.
+1990	Muir & Son, Gorn	15mo LMx heifer	-	By Hartside Underwood, out of CH cow.
+1991	R. & J. Johnson, Hewan	8yo CHx cow*	Crystal	By Chesham Joseph, out of homebred SMx cow; previous champion.
+1992	R. & J. Johnson, Hewan	2yo in calf heifer	-	By Newhouse Banker, out of LMx cow.
+1993	R. & J. Johnson, Hewan	9yo CHx cow*	Crystal	By Chesham Joseph, out of homebred SMx cow; previous champion.
+1994	R. & J. Johnson, Hewan	2yo LMx heifer	-	By Uppermill Dominator, out of LMx cow.
+1995	Muir & Son, Gorn	LMx heifer calf	-	By Duke's Canton, out of LMx cow.
+1996	R. & J. Johnson, Hewan	4yo LMx cow	-	By Uppermill Dominator, out of LMx cow; champion in 1994.
+1997	Muir & Son, Gorn	LM heifer calf	Muirwood Mona	By Heartside Ideal, out of Muirwood Iona.
+1998	R. & J. Johnson, Hewan	2yo LMx heifer in calf	-	By Knockenbaird Iran.
+1999	R. & J. Johnson, Hewan	9yo LMx cow	-	By Newhouse Baker, out of cross cow.
+2000	T. & J. Leslie, Quoymorhouse	18mo LMx stot*	-	By Shire Lonesome, out of LMx cow.
+2001	No show due to Foot & Mouth outbreak.
+2002	R. & J. Johnson, Hewan	black heifer in calf	Tilly	-
+2003	T. & J. Leslie, Quoymorhouse	15mo LMx heifer*	Mystique	By Roughly Indian, out of LMxBB cow.

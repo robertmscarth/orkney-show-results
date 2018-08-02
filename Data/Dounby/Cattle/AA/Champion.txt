@@ -1,9 +1,8 @@
-Dounby Show Aberdeen-Angus Champions 1970-present
-Year	Exhibitor						Champion		Name				Notes
-1936	Robert Learmonth, Saither, Dounby			cow*			Eriney of Saither		By Engineer of Bleaton; supreme champion in 1936.
-1937	Robert Learmonth, Saither, Dounby			cow			-				Supreme champion in 1937; not clear if this is the same animal as last year.
-1938	James Flett, Kingshouse, Harray				cow			Annuity 33rd of Portlethen	By Dipsy Bonny Boy; supreme champion in 1938.
-1939	James Flett, Kingshouse, Harray				2yo heifer*		Annuity 3rd of Kingshouse	By Pundit of Kingshouse; supreme champion in 1939.
+Year	Exhibitor	Champion	Name	Notes
+1936	Robert Learmonth, Saither, Dounby	cow*	Eriney of Saither	By Engineer of Bleaton; supreme champion in 1936.
+1937	Robert Learmonth, Saither, Dounby	cow	-	Supreme champion in 1937; not clear if this is the same animal as last year.
+1938	James Flett, Kingshouse, Harray	cow	Annuity 33rd of Portlethen	By Dipsy Bonny Boy; supreme champion in 1938.
+1939	James Flett, Kingshouse, Harray	2yo heifer*	Annuity 3rd of Kingshouse	By Pundit of Kingshouse; supreme champion in 1939.
 1940-1944	No show due to war.
 1945	-
 1946	-
@@ -15,52 +14,52 @@ Year	Exhibitor						Champion		Name				Notes
 1952	-
 1953	-
 1954	-
-1955	P. Davidson, Skaill, Sandwick				2yo bull		-				-
-1956	W. Ritch, Kierfiold, Sandwick				bull			-				-
-1957	Flett Bros, Kingshouse, Harray				cow or heifer		-				-
-1958	P. Davidson, Skaill, Sandwick				9yo bull		-				By Baltimore Tilleyrie.
-1959	P. Davidson, Skaill, Sandwick				21mo bull		-				Bred by Geddes Barluak, Rothes; supreme champion in 1959.
-1960	G. T. Wylie, Swartland, Sandwick			5yo bull		Newhouse Jewbilant Eric		Bought at Perth in Feb 1960 for 500gns; previously stock bull at Lindertis herd; supreme champion in 1960.
-1961	P. Davidson, Skaill, Sandwick ?				-			-				Report is unclear and self-contradictory.
-1962	T. S. Flett, Millhouse, Harray				7yo cow			Erica 9th of Kingshouse		By Perimore of Leys Castle.
-1963	R. Flett, Fidge, Twatt					5yo bull		Elviimit of Kinermony		Bought from J. Allan, Leafea, Stromness in early 1963.
-1964	R. Flett, Fidge, Twatt					4.5yo coe		Esme of Durris			Bred at Drumoak; bought at Perth in October 1963; supreme champion in 1965.
-1965	R. Flett, Fidge, Twatt					5yo cow			Esme of Durris			
-1966	T. S. Flett, Millhouse, Harray				4yo cow in calf*	Millhouse Emma IX		By Equiby of Threepwood.
-1967	E. Flett, Kingshouse, Harray				9yo bull		Braw Jason of Whitestrype	-
-1968	T. S. Flett, Millhouse, Harray				6yo cow*		-				By Equerry of Threepwood, out of Erica cow; supreme champion in 1967.
-1969	T. S. Flett, Millhouse, Harray				8yo bull*		Jovial Eric of Millhouse	By Black Prince of Greenyards; supreme champion 1969-70.
-1970	T. S. Flett, Millhouse, Harray				9yo bull*		Jovial Eric of Millhouse	
-1971	T. S. Flett, Millhouse, Harray				heifer calf*		-				By Panda of Millhouse, out of homebred cow; dam sired by Jovial Eric of Millhouse; supreme champion in 1971.
-1972	T. S. Flett, Millhouse, Harray				3yo bull*		Everstrike of Millhouse		By Jovial Eric of Millhouse, out of Emma of Millhouse; supreme champion in 1972; sired bull sold for 9000gns at Perth.
-1973	D. W. Sinclair & Co, Unigarth, Sandwick			4yo cow*		Beva Maid of Unigarth		By Evril of Unigarth.
-1974	I. Flett & Sons, Millhouse, Harray			6yo bull		Elcho of Millhouse		By Jovial Eric of Millhouse; supreme champion in 1974 & 1975.
-1975	I. Flett & Sons, Millhouse, Harray			7yo bull		Elcho of Millhouse		
-1976	I. Flett & Sons, Millhouse, Harray			4yo bull		Elmore of Millhouse		By Everstrike of Millhouse; supreme champion at 1974 County show; sire was supreme champion in 1972.
-1977	S. & P. Davidson, Skaill Farm, Sandwick			4yo bull		Jubilant Eric of Derculich	By Esteem of Balechum; bought at Perth in 1974 for 900gns; supreme champion at 1976 County Show; 4th in class at 1977 Royal Highland.
-1978	D. W. Sinclair & Co, Unigarth, Sandwick			5yo bull		Elprovost of Eastfield		By Newhouse Proud Prince; bred by T. H. Brewis, Eastfield; bought by Unigarth at Perth in 1974 for 1100gns; 1st in class at Perth; supreme champion in 1978 & 1979.
-1979	D. W. Sinclair & Co, Unigarth, Sandwick			6yo bull		Elprovost of Eastfield		
-1980	S. & P. Davidson, Skaill Farm, Sandwick			3yo bull		Eranger of Buchaam		By Blackman of Greenval (Canadian bred); bought privately in Aberdeen, early 1979 from Ogg of Strathallan; supreme champion in 1980 & 1981.
-1981	S. & P. Davidson, Skaill Farm, Sandwick			5yo bull		Eranger of Buchaam		
-1982	M. C. Wood & Son, Garson, Sandwick			3yo cow in milk*	Wanerica of Garson		By Ashley Jubert Eric, out of Wanerica of Haymount.
-1983	Messrs Davidson, Skaill & Messrs Sinclair, Unigarth	3yo bull		Black Game of Eastfield		By Ballybrennan Profit (Irish bred), out of Blackbird of Southholm (Canadian bred); bought at Perth in February 1982; supreme champion in 1983.
-1984	M. C. Wood & Son, Garson, Sandwick			5yo cow			Wanerica of Garson		By Ashley Jubert Eric, out of Wanerica of Haymount; supreme champion in 1984.
-1985	Messrs Sinclair, Unigarth & Messrs Wood, Garson		6yo bull		G V Winton 44L			By G V Canadian 7J, out of G V Pride 40J; canadian bred, imported into UK by Mr Charles Oag, bought by exhibitors at dispersal sale in 1983 for 4500gns; champion AA at Royal Show in 1986; supreme champion in 1985 & 1986.
-1986	Messrs Sinclair, Unigarth & Messrs Wood, Garson		7yo bull		G V Winton 44L			
-1987	D. W. Sinclair & Co, Unigarth, Sandwick			10mo calf*		Poppy K2 of Unigarth		By Bar Leroy of Cubbiehill, out of Poppy of Unigarth.
-1988	D. W. Sinclair & Co, Unigarth, Sandwick			1yo heifer		-				-
-1989	W. C. Merriman, Laithe, Sandwick			8yo cow			Portrait of Westdrums		By Ballyshannon Justain 3rd, out of Portrice of Westdrums; bought as a calf with mother.
-1990	D. W. Sinclair & Co, Unigarth, Sandwick			6yo cow*		Ethnic of Unigarth		By G V Winton 44L, out of Etana of Unigarth; supreme champion in 1990.
-1991	Messrs Davidson, Skaill Farm, Sandwick			3yo cow			Nicks Delia			By DMM Esoteric, out of Tomil Delia; supreme champion in 1991. 
-1992	Messrs Davidson, Skaill Farm, Sandwick			2yo heifer in calf*	Skaill Delia			By Windover Justifier, out of Nicks Delia; reserve best female AA at 1992 Royal Highland; supreme champion in 1992 & 1993.
-1993	Messrs Davidson, Skaill Farm, Sandwick			3yo cow*		Skaill Delia			
-1994	Messrs Davidson, Skaill Farm, Sandwick			4yo cow*		Skaill Delia			
-1995	Messrs Davidson, Skaill Farm, Sandwick			5yo cow*		Skaill Delilah			By Windover Justifier, out of Nicks Delia; supreme champion in 1995.		
-1996	Messrs Davidson, Skaill Farm, Sandwick			2yo heifer*		Skaill Delia T2			By Rito 2100, out of Skaill Delia O2; dam was supreme champion in 1992 & 1993.
-1997	G. R. T. Scarth & Co, Twatt Farm, Birsay		8yo bull		Heathlands Buzz Marty		By Windover Justifier, out of Heathlands Buzz Melody; supreme champion at 1993 East Mainland show; bought from S. Harcus, Quanterness in 1995.
-1998	D. W. Sinclair & Co, Unigarth, Sandwick			2yo bull*		Padre of Unigarth		By Windover of Haymount, out of Poppy N21 of Unigarth.
-1999	Messrs Davidson, Skaill Farm, Sandwick			1yo heifer*		Skaill Diana			By Edinburgh of The Moss, out of Skaill Diana R4; supreme champion at 1999 County show.
-2000	Messrs Davidson, Skaill Farm, Sandwick			1yo bull*		Skaill Dividend			By Baron of Unigarth, out of Skaill Delilah B6.
-2001		No show due to Foot & Mouth outbreak.
-2002	Messrs Davidson, Skaill Farm, Sandwick			1yo bull*		Skaill Domino			By Nightingale Regent, out of Skaill Diana U8; born April 2001; 4 full brothers sold for 10,000gns, 7,000gns, 5,000gns, and 4,000gns.
-2003	Messrs Davidson, Skaill Farm, Sandwick			2yo bull*		Skaill Express			By Darling Cruz, out of Skaill Estella.
+1955	P. Davidson, Skaill, Sandwick	2yo bull	-	-
+1956	W. Ritch, Kierfiold, Sandwick	bull	-	-
+1957	Flett Bros, Kingshouse, Harray	cow or heifer	-	-
+1958	P. Davidson, Skaill, Sandwick	9yo bull	-	By Baltimore Tilleyrie.
+1959	P. Davidson, Skaill, Sandwick	21mo bull	-	Bred by Geddes Barluak, Rothes; supreme champion in 1959.
+1960	G. T. Wylie, Swartland, Sandwick	5yo bull	Newhouse Jewbilant Eric	Bought at Perth in Feb 1960 for 500gns; previously stock bull at Lindertis herd; supreme champion in 1960.
+1961	P. Davidson, Skaill, Sandwick ?	-	-	Report is unclear and self-contradictory.
+1962	T. S. Flett, Millhouse, Harray	7yo cow	Erica 9th of Kingshouse	By Perimore of Leys Castle.
+1963	R. Flett, Fidge, Twatt	5yo bull	Elviimit of Kinermony	Bought from J. Allan, Leafea, Stromness in early 1963.
+1964	R. Flett, Fidge, Twatt	4.5yo coe	Esme of Durris	Bred at Drumoak; bought at Perth in October 1963; supreme champion in 1965.
+1965	R. Flett, Fidge, Twatt	5yo cow	Esme of Durris	
+1966	T. S. Flett, Millhouse, Harray	4yo cow in calf*	Millhouse Emma IX	By Equiby of Threepwood.
+1967	E. Flett, Kingshouse, Harray	9yo bull	Braw Jason of Whitestrype	-
+1968	T. S. Flett, Millhouse, Harray	6yo cow*	-	By Equerry of Threepwood, out of Erica cow; supreme champion in 1967.
+1969	T. S. Flett, Millhouse, Harray	8yo bull*	Jovial Eric of Millhouse	By Black Prince of Greenyards; supreme champion 1969-70.
+1970	T. S. Flett, Millhouse, Harray	9yo bull*	Jovial Eric of Millhouse	
+1971	T. S. Flett, Millhouse, Harray	heifer calf*	-	By Panda of Millhouse, out of homebred cow; dam sired by Jovial Eric of Millhouse; supreme champion in 1971.
+1972	T. S. Flett, Millhouse, Harray	3yo bull*	Everstrike of Millhouse	By Jovial Eric of Millhouse, out of Emma of Millhouse; supreme champion in 1972; sired bull sold for 9000gns at Perth.
+1973	D. W. Sinclair & Co, Unigarth, Sandwick	4yo cow*	Beva Maid of Unigarth	By Evril of Unigarth.
+1974	I. Flett & Sons, Millhouse, Harray	6yo bull	Elcho of Millhouse	By Jovial Eric of Millhouse; supreme champion in 1974 & 1975.
+1975	I. Flett & Sons, Millhouse, Harray	7yo bull	Elcho of Millhouse	
+1976	I. Flett & Sons, Millhouse, Harray	4yo bull	Elmore of Millhouse	By Everstrike of Millhouse; supreme champion at 1974 County show; sire was supreme champion in 1972.
+1977	S. & P. Davidson, Skaill Farm, Sandwick	4yo bull	Jubilant Eric of Derculich	By Esteem of Balechum; bought at Perth in 1974 for 900gns; supreme champion at 1976 County Show; 4th in class at 1977 Royal Highland.
+1978	D. W. Sinclair & Co, Unigarth, Sandwick	5yo bull	Elprovost of Eastfield	By Newhouse Proud Prince; bred by T. H. Brewis, Eastfield; bought by Unigarth at Perth in 1974 for 1100gns; 1st in class at Perth; supreme champion in 1978 & 1979.
+1979	D. W. Sinclair & Co, Unigarth, Sandwick	6yo bull	Elprovost of Eastfield	
+1980	S. & P. Davidson, Skaill Farm, Sandwick	3yo bull	Eranger of Buchaam	By Blackman of Greenval (Canadian bred); bought privately in Aberdeen, early 1979 from Ogg of Strathallan; supreme champion in 1980 & 1981.
+1981	S. & P. Davidson, Skaill Farm, Sandwick	5yo bull	Eranger of Buchaam	
+1982	M. C. Wood & Son, Garson, Sandwick	3yo cow in milk*	Wanerica of Garson	By Ashley Jubert Eric, out of Wanerica of Haymount.
+1983	Messrs Davidson, Skaill & Messrs Sinclair, Unigarth	3yo bull	Black Game of Eastfield	By Ballybrennan Profit (Irish bred), out of Blackbird of Southholm (Canadian bred); bought at Perth in February 1982; supreme champion in 1983.
+1984	M. C. Wood & Son, Garson, Sandwick	5yo cow	Wanerica of Garson	By Ashley Jubert Eric, out of Wanerica of Haymount; supreme champion in 1984.
+1985	Messrs Sinclair, Unigarth & Messrs Wood, Garson	6yo bull	G V Winton 44L	By G V Canadian 7J, out of G V Pride 40J; canadian bred, imported into UK by Mr Charles Oag, bought by exhibitors at dispersal sale in 1983 for 4500gns; champion AA at Royal Show in 1986; supreme champion in 1985 & 1986.
+1986	Messrs Sinclair, Unigarth & Messrs Wood, Garson	7yo bull	G V Winton 44L	
+1987	D. W. Sinclair & Co, Unigarth, Sandwick	10mo calf*	Poppy K2 of Unigarth	By Bar Leroy of Cubbiehill, out of Poppy of Unigarth.
+1988	D. W. Sinclair & Co, Unigarth, Sandwick	1yo heifer	-	-
+1989	W. C. Merriman, Laithe, Sandwick	8yo cow	Portrait of Westdrums	By Ballyshannon Justain 3rd, out of Portrice of Westdrums; bought as a calf with mother.
+1990	D. W. Sinclair & Co, Unigarth, Sandwick	6yo cow*	Ethnic of Unigarth	By G V Winton 44L, out of Etana of Unigarth; supreme champion in 1990.
+1991	Messrs Davidson, Skaill Farm, Sandwick	3yo cow	Nicks Delia	By DMM Esoteric, out of Tomil Delia; supreme champion in 1991. 
+1992	Messrs Davidson, Skaill Farm, Sandwick	2yo heifer in calf*	Skaill Delia	By Windover Justifier, out of Nicks Delia; reserve best female AA at 1992 Royal Highland; supreme champion in 1992 & 1993.
+1993	Messrs Davidson, Skaill Farm, Sandwick	3yo cow*	Skaill Delia	
+1994	Messrs Davidson, Skaill Farm, Sandwick	4yo cow*	Skaill Delia	
+1995	Messrs Davidson, Skaill Farm, Sandwick	5yo cow*	Skaill Delilah	By Windover Justifier, out of Nicks Delia; supreme champion in 1995.	
+1996	Messrs Davidson, Skaill Farm, Sandwick	2yo heifer*	Skaill Delia T2	By Rito 2100, out of Skaill Delia O2; dam was supreme champion in 1992 & 1993.
+1997	G. R. T. Scarth & Co, Twatt Farm, Birsay	8yo bull	Heathlands Buzz Marty	By Windover Justifier, out of Heathlands Buzz Melody; supreme champion at 1993 East Mainland show; bought from S. Harcus, Quanterness in 1995.
+1998	D. W. Sinclair & Co, Unigarth, Sandwick	2yo bull*	Padre of Unigarth	By Windover of Haymount, out of Poppy N21 of Unigarth.
+1999	Messrs Davidson, Skaill Farm, Sandwick	1yo heifer*	Skaill Diana	By Edinburgh of The Moss, out of Skaill Diana R4; supreme champion at 1999 County show.
+2000	Messrs Davidson, Skaill Farm, Sandwick	1yo bull*	Skaill Dividend	By Baron of Unigarth, out of Skaill Delilah B6.
+2001	No show due to Foot & Mouth outbreak.
+2002	Messrs Davidson, Skaill Farm, Sandwick	1yo bull*	Skaill Domino	By Nightingale Regent, out of Skaill Diana U8; born April 2001; 4 full brothers sold for 10,000gns, 7,000gns, 5,000gns, and 4,000gns.
+2003	Messrs Davidson, Skaill Farm, Sandwick	2yo bull*	Skaill Express	By Darling Cruz, out of Skaill Estella.

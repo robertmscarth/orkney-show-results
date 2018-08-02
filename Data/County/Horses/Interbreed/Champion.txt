@@ -1,27 +1,26 @@
-County Show Champion Horse 1980-present
-Year	Exhibitor							Champion		Name			Notes
-1980	Mr W. G. Findlay, 10 Warren's Walk, Kirkwall			3yo bay filly*		Dot			By Baron Volla; standard Hackney cross; 14.1 hh.
-1981	Mr W. G. Findlay, 10 Warren's Walk, Kirkwall			4yo bay filly*		Dotty
-1982	Mrs D. Wishart, Westquoy, Orphir				4yo filly*		Westqouy Flower		By TH stallion Unseen, out of Appaloosa x TH mare Jessia.
-1983	Mrs Rena Paterson, Veltigar, Tankerness				1yo CD filly		Highfield Maid Marion	By Barnahill Ringleader, out of Dykes Heatherbell; bought privately in Banff, June 1983; Champion at 1985 East Mainland show.
-1984	Mrs Rena Paterson, Veltigar, Tankerness				2yo CD filly		Highfield Maid Marion
-1985	Mrs Rena Paterson, Veltigar, Tankerness				3yo CD filly-in-foal	Highfield Maid Marion
-1986	Mrs Rena Paterson, Veltigar, Tankerness				4yo CD yeld mare	Highfield Maid Marion
-1987	Mrs Rena Paterson, Veltigar, Tankerness				5yo CD mare		Highfield Maid Marion
-1988	Mrs I. Scott, Roeberry Farm, South Ronaldsay			9yo mare		Great Flare		By Bunny Boy, out of Great Girl.
-1989	N. Robertson, Shorelands, George St., Kirkwall			10yo broad mare		Rosslyn Fairy Ring	By Oakley Eleven Up, out of Mynyddback Fairy.
-1990	E. Simpson, Weaverhall, Stromness				7yo			Kontiki			By Gainsborough Comet, out of Suzie.
-1991	J. S. Baillie, Sebay, Tankerness				5yo SH yeld		Fiona of Sebay		By Wells Shergar, out Westpark Faith; champion at 1991 East Mainland.
-1992	R. Manson, West Clumley, Sandwick				1yo CD colt*		West Clumley Daniel	By Collissie Benedictine, out of Star Lady Margaret; champion at 1993 Dounby show.
-1993	R. Manson, West Clumley, Sandwick				2yo CD colt*		West Clumley Daniel
-1994	J. S. Baillie, Sebay, Tankerness				2yo Sh mare*		Eileen of Sebay		By Cullerne Edward, out of Ella of Bayview.
-1995	E. Metcalf, Work Farm, St. Ola					9yo CD mare		Mill Queen of Rothesay	By Ayton Perfection, out of Eskeckraggen Lady Jane; bought in June 1994 at Barnahill sale for top price of £2600; won 11 championships all over Scotland in 1992.
+Year	Exhibitor	Champion	Name	Notes
+1980	Mr W. G. Findlay, 10 Warren's Walk, Kirkwall	3yo bay filly*	Dot	By Baron Volla; standard Hackney cross; 14.1 hh.
+1981	Mr W. G. Findlay, 10 Warren's Walk, Kirkwall	4yo bay filly*	Dotty
+1982	Mrs D. Wishart, Westquoy, Orphir	4yo filly*	Westqouy Flower	By TH stallion Unseen, out of Appaloosa x TH mare Jessia.
+1983	Mrs Rena Paterson, Veltigar, Tankerness	1yo CD filly	Highfield Maid Marion	By Barnahill Ringleader, out of Dykes Heatherbell; bought privately in Banff, June 1983; Champion at 1985 East Mainland show.
+1984	Mrs Rena Paterson, Veltigar, Tankerness	2yo CD filly	Highfield Maid Marion
+1985	Mrs Rena Paterson, Veltigar, Tankerness	3yo CD filly-in-foal	Highfield Maid Marion
+1986	Mrs Rena Paterson, Veltigar, Tankerness	4yo CD yeld mare	Highfield Maid Marion
+1987	Mrs Rena Paterson, Veltigar, Tankerness	5yo CD mare	Highfield Maid Marion
+1988	Mrs I. Scott, Roeberry Farm, South Ronaldsay	9yo mare	Great Flare	By Bunny Boy, out of Great Girl.
+1989	N. Robertson, Shorelands, George St., Kirkwall	10yo broad mare	Rosslyn Fairy Ring	By Oakley Eleven Up, out of Mynyddback Fairy.
+1990	E. Simpson, Weaverhall, Stromness	7yo	Kontiki	By Gainsborough Comet, out of Suzie.
+1991	J. S. Baillie, Sebay, Tankerness	5yo SH yeld	Fiona of Sebay	By Wells Shergar, out Westpark Faith; champion at 1991 East Mainland.
+1992	R. Manson, West Clumley, Sandwick	1yo CD colt*	West Clumley Daniel	By Collissie Benedictine, out of Star Lady Margaret; champion at 1993 Dounby show.
+1993	R. Manson, West Clumley, Sandwick	2yo CD colt*	West Clumley Daniel
+1994	J. S. Baillie, Sebay, Tankerness	2yo Sh mare*	Eileen of Sebay	By Cullerne Edward, out of Ella of Bayview.
+1995	E. Metcalf, Work Farm, St. Ola	9yo CD mare	Mill Queen of Rothesay	By Ayton Perfection, out of Eskeckraggen Lady Jane; bought in June 1994 at Barnahill sale for top price of £2600; won 11 championships all over Scotland in 1992.
 1996	E. A. & D. Leonard, Park Cottage, Berstane Road, Kirkwall	7yo TH x bay mare	Millbrex Discovery	-	
-1997	Inga Scott, Braebuster, Deerness				6yo mare		Kingsford Happy		By Thornwood Royalist, out of Kingsford Blue Mink; 14.2 hands.
-1998	G. & E. Coltherd, Annfield, Holm				4yo CD yield mare	Roughland M'Lady	By Mollen Hillhead, out of Roughlands Queen of Carron.
-1999	J. & M. Slater, Millquoy, Stenness				10yo SH mare		Stow Drummer Girl	By Wells Renown, out of Drum Video; bought in 1996 at Aberdeen sales; champion at 2002 Dounby show.
-2000	Diane Walker, Brake House, Stennes				4yo x gelding*		Hooch			By Dutch Warm Blood Secundus, out of Taboo.
-2001		No Show due to Foot & Mouth outbreak.
-2002	J. & M. Slater, Millquoy, Stenness				14yo SH mare		Stow Drummer Girl	By Wells Renown, out of Drum Video; bought in 1996 at Aberdeen sales; champion at 2002 Dounby show.
-2003	J. & L. Cromarty, Roadside, Toab				5yo SH yield mare	Bayview First Class	By Millhouse First Class, out of Linglass Suzie; champion at 2000(?) East Mainland show.
-2004	D. Walker, Bracke House, Stenness				5yo gelding		Badger			By a Fresian stallion, out of an Irish mare; champion at 2004 Dounby Show.
+1997	Inga Scott, Braebuster, Deerness	6yo mare	Kingsford Happy	By Thornwood Royalist, out of Kingsford Blue Mink; 14.2 hands.
+1998	G. & E. Coltherd, Annfield, Holm	4yo CD yield mare	Roughland M'Lady	By Mollen Hillhead, out of Roughlands Queen of Carron.
+1999	J. & M. Slater, Millquoy, Stenness	10yo SH mare	Stow Drummer Girl	By Wells Renown, out of Drum Video; bought in 1996 at Aberdeen sales; champion at 2002 Dounby show.
+2000	Diane Walker, Brake House, Stennes	4yo x gelding*	Hooch	By Dutch Warm Blood Secundus, out of Taboo.
+2001	No Show due to Foot & Mouth outbreak.
+2002	J. & M. Slater, Millquoy, Stenness	14yo SH mare	Stow Drummer Girl	By Wells Renown, out of Drum Video; bought in 1996 at Aberdeen sales; champion at 2002 Dounby show.
+2003	J. & L. Cromarty, Roadside, Toab	5yo SH yield mare	Bayview First Class	By Millhouse First Class, out of Linglass Suzie; champion at 2000(?) East Mainland show.
+2004	D. Walker, Bracke House, Stenness	5yo gelding	Badger	By a Fresian stallion, out of an Irish mare; champion at 2004 Dounby Show.

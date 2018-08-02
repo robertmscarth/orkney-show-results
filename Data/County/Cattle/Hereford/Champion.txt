@@ -1,24 +1,23 @@
-County Show Hereford Champions 1970-present
-Year	Exhibitor					Champion	Name			Notes
-1970	R. E. Scott, Biggins, Rendall			heifer		-			-
-1971	W. G. Firth, Feawell, Stromness			2yo		Carsland Resolve	By Redhall Perky; bought at Edinburgh sale in 1971; champion Hereford at 1971 Dounby Show.
-1972	J. Scott, Roeberry, S. Ronaldsay		5yo bull	-			Kelso bred.
-1973	J. R. Heddle, Westfield, Stromness		3yo		Dunure Obo		By Haven Bogle; bred ar Dunure Mains, Ayrshire; bought at Edinburgh; Hereford champion at 1973 Dounby Show.
-1974	J. Scott, Roeberry, S. Ronaldsay		6yo bull	Beaumont Idris		Bred by Wilson of Cowboys.
-1975	J. R. Heddle, Westfield, Stromness		5yo bull	Dunure Obo		By Haven Bogle; bred ar Dunure Mains, Ayrshire; bought at Edinburgh; Hereford champion at 1973 Dounby Show.
-1976	J. R. Heddle, Westfield, Stromness		6yo bull	Dunure Obo	
-1977	J. Gaudie & Son, Craebreck, Holm		4yo bull	Wilcot I Bernard	By Crickley I Compensation; bought at Edinburgh in 1977 for 520gns.
-1978	J. Gaudie & Son, Craebreck, Holm		5yo bull	Wilcot I Bernard	
-1979	J. Gaudie & Son, Craebreck, Holm		27mo bull	Pen-y-Parc Maharaja	By B.C. I Majestic; bought at Edinburgh in February 1977.
-1980	M. C. Wood & Co, Pow, Sandwick			7yo bull	Solpoll I Highlight	By B.C. I Juliana.
-1981	J. Gaudie & Son, Craebreck, Holm		8yp bull	Wilcot I Bernard
-1982	K. & M. Eunson, North Keigar, Deerness		5yo bull	Knoxhill Talisman	By Horsetin I Guiseppe; bought at Aberdeen sale for 1000gns.
-1983	S. Laird & Co, Pole, Burray			6yo		Myroe Magic		By Myroe Kaiser, out of Myroe Monica; bought at Edinburgh sale in 1979; champion at 1984 'Hope show.
-1984	S. Laird & Co, Pole, Burray			7yo		Myroe Magic
-1985	D. & I. Rendall, Smoogro, Orphir		20mo bull	Smoogro Apollo		By Withington Hero, out of Kirklands Gambia.
-1986	R. Sabiston, Lighthouse, Firth			6yo bull	Winterwell Rambler	By Little Tarrington Elect, out of Winterwell I Oyster.
-1989	R. Sabiston, Lighthouse, Firth			bull		-			-
-1990	R. Sabiston, Lighthouse, Firth			2yo bull	Helensberry Emperor	By Battledore Challenger.
-1996	M. & L. J. Girvan, Brance, South Ronaldsay	6yo cow		Panmure Blessing G4	By Luada North Star, out of Panmure Blessing D14.
-2001		No Show due to Foot & Mouth outbreak.
-2003	S. Smith, Lesliedale, St. Ola			-		-			-
+Year	Exhibitor	Champion	Name	Notes
+1970	R. E. Scott, Biggins, Rendall	heifer	-	-
+1971	W. G. Firth, Feawell, Stromness	2yo	Carsland Resolve	By Redhall Perky; bought at Edinburgh sale in 1971; champion Hereford at 1971 Dounby Show.
+1972	J. Scott, Roeberry, S. Ronaldsay	5yo bull	-	Kelso bred.
+1973	J. R. Heddle, Westfield, Stromness	3yo	Dunure Obo	By Haven Bogle; bred ar Dunure Mains, Ayrshire; bought at Edinburgh; Hereford champion at 1973 Dounby Show.
+1974	J. Scott, Roeberry, S. Ronaldsay	6yo bull	Beaumont Idris	Bred by Wilson of Cowboys.
+1975	J. R. Heddle, Westfield, Stromness	5yo bull	Dunure Obo	By Haven Bogle; bred ar Dunure Mains, Ayrshire; bought at Edinburgh; Hereford champion at 1973 Dounby Show.
+1976	J. R. Heddle, Westfield, Stromness	6yo bull	Dunure Obo	
+1977	J. Gaudie & Son, Craebreck, Holm	4yo bull	Wilcot I Bernard	By Crickley I Compensation; bought at Edinburgh in 1977 for 520gns.
+1978	J. Gaudie & Son, Craebreck, Holm	5yo bull	Wilcot I Bernard	
+1979	J. Gaudie & Son, Craebreck, Holm	27mo bull	Pen-y-Parc Maharaja	By B.C. I Majestic; bought at Edinburgh in February 1977.
+1980	M. C. Wood & Co, Pow, Sandwick	7yo bull	Solpoll I Highlight	By B.C. I Juliana.
+1981	J. Gaudie & Son, Craebreck, Holm	8yp bull	Wilcot I Bernard
+1982	K. & M. Eunson, North Keigar, Deerness	5yo bull	Knoxhill Talisman	By Horsetin I Guiseppe; bought at Aberdeen sale for 1000gns.
+1983	S. Laird & Co, Pole, Burray	6yo	Myroe Magic	By Myroe Kaiser, out of Myroe Monica; bought at Edinburgh sale in 1979; champion at 1984 'Hope show.
+1984	S. Laird & Co, Pole, Burray	7yo	Myroe Magic
+1985	D. & I. Rendall, Smoogro, Orphir	20mo bull	Smoogro Apollo	By Withington Hero, out of Kirklands Gambia.
+1986	R. Sabiston, Lighthouse, Firth	6yo bull	Winterwell Rambler	By Little Tarrington Elect, out of Winterwell I Oyster.
+1989	R. Sabiston, Lighthouse, Firth	bull	-	-
+1990	R. Sabiston, Lighthouse, Firth	2yo bull	Helensberry Emperor	By Battledore Challenger.
+1996	M. & L. J. Girvan, Brance, South Ronaldsay	6yo cow	Panmure Blessing G4	By Luada North Star, out of Panmure Blessing D14.
+2001	No Show due to Foot & Mouth outbreak.
+2003	S. Smith, Lesliedale, St. Ola	-	-	-

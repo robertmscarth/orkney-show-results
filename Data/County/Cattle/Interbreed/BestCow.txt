@@ -1,67 +1,66 @@
-County Show Best Cow 1936-present
-Year	Exhibitor					Champion				Name				Notes
-1936	James Gaddie, The Bu', Holm			Cross bred polled cow			-				Supreme champion 1936.
-1937	James Esson, Holm of Grimbister, Firth		Cross bred polled cow			-				Supreme champion 1937.
-1938	James Esson, Holm of Grimbister, Firth		Cross cow				-				-
-1939	James Flett, Kingshouse, Harray			AA heifer in calf*			Annuity 3rd of Kingshouse	By Pundit of Kingshouse; supreme champion in 1939 and at 1939 Dounby Show.
+Year	Exhibitor	Champion	Name	Notes
+1936	James Gaddie, The Bu', Holm	Cross bred polled cow	-	Supreme champion 1936.
+1937	James Esson, Holm of Grimbister, Firth	Cross bred polled cow	-	Supreme champion 1937.
+1938	James Esson, Holm of Grimbister, Firth	Cross cow	-	-
+1939	James Flett, Kingshouse, Harray	AA heifer in calf*	Annuity 3rd of Kingshouse	By Pundit of Kingshouse; supreme champion in 1939 and at 1939 Dounby Show.
 1940-1944	No show due to war.
-1945		?
-1946	James Gaddie, Holm				-					-				-
-1947	A. A. Baikie, Hall of Tankerness		7yo cross bred polled cow		-				Supreme champion at 1947 County show, at East Mainland Show 1946-47, and 1949.
-1948	John D. Clouston, Quatquoy, Firth		Cross bred polled cow			-				Supreme champion in 1948.
-1949	Mrs Baikie, Hall of Tankerness			9yo cross bred blue cow			-				Supreme champion at 1947 and 1949 County show and 1949 East Mainland Show.
-1950	Flett Bros, Kingshouse, Harray			AA heifer				-				-
-1951	Messrs T. Smith & Son, Lower Cornquoy, Holm	Black cross cow				-				-
-1952	Mr James Baillie, Sebay, Tankerness		2yo cross heifer in calf		-				-
-1953	Messrs Bain & Smith, Hall of Tankerness		7yo AA cow				Myrtle March Mad		By Envoy of Derculich; supreme champion in 1953, and at 1953 East Mainland Show.
-1954	Messrs Flett Bros, Kingshouse, Harray		5yo SH cow				-				By Ashcreavie White Knight; bred at Philorth; roan; supreme champion in 1954 and at 1954 Dounby Show.
-1955	John D. Clouston, Quatquoy, Firth		7yo cross polled black cow		-				Supreme champion in 1955 and at 1955 Dounby Show.
-1956	W. Flett, Northbigging, Harray			9yo blue polled cross cow		-				Supreme champion in 1956
-1957	W. Ritch, Kierfiold, Sandwick			5yo cross cow in calf			-				Bred at Hurtiso, Rousay; supreme champion in 1956 and at 1956 Rousay Show, and 1957 Dounby Show.
-1958	J. G. Garrioch, Breckan, Costa, Evie		2yo SH heifer in calf			-				By Calrossie Claymore.
-1959	Messrs Flett Bros, Kingshouse			5yo black cross polled cow		-				Supreme champion in 1959.
-1960	W. Ritch, Kierfiold, Sandwick			8yo blue-grey cow			-				Previous champion at County show and twice at Dounby show (years not given).
-1961	Messrs M. C. Wood & Sons, Garson, Sandwick	8yo black polled cross cow in calf	-				Supreme champion in 1961.
-1962	A. A. Learmonth, Howe, Shapinsay		5yo black polled cow*			-				Supreme champion at Shapinsay show 1960-1962.
-1963	T. Dearness, Southfield, Burray			4yo AA cow				Butora of Kincardine		By Bessort of Kincardine, out of Buto if Kincardine; bought at Kincardine dispersal sale in 1961; supreme champion in 1963 and at 1962 & 1963 'Hope Show.
-1964	T. Dearness, Southfield, Burray			4yo AA cow				Butora of Kincardine		
-1965	R. R. Johnston, Trumland Farm, Rousay		2yo AA heifer				Corbairdy Even Crescent		By Earl of Cairnfield; bought at Cobairdy dispersal sale for 270gns; grand dam, Even Girl III, was twice champion at the Royal Highland Show.
-1966	R. R. Johnston, Trumland Farm, Rousay		3yo AA cow				Corbairdy Even Crescent
-1967	J. S. Baillie, Sebay, Tankerness		3yo AA cow in calf			Effective of Oykell		By Boshun of Haymount.
-1968	J. S. Baillie, Sebay, Tankerness		4yo AA cow				Oykell Effective		By Bosun of Haymount.
-1969	D. Work & Son, Ness, Shapinsay			2yo black polled cross heifer in calf	-				By Jewra Eric of Buchaam.
-1970	D. Swannie, Midhouse, South Ronaldsay		8yo cow					-				By Drummer of Fordhouse; roan; champion at 1970 'Hope show.
-1971		?
-1972	W. Voy, Milldam, Tankerness			6yo cross cow				-				By Western Lovat Edmundo.
-1973	J. S. Baillie, Sebay, Tankerness		3yo AA cow				Ermonax of Eastfield		By Juanamax Eric of Douneside.
-1974	D. Swannie, Midhouse, South Ronaldsay		12yo cow				-				Coloured cross champion for 4th time.
-1975	J. S. Baillie, Sebay, Tankerness		8yo black cross cow in calf*		-				By Wester Lovat Eanomo.
-1976	J. & E. Flett, Northbigging, Harray		-					-				Reserve champion?
-1977	R. Flett, Fidge, Twatt				7yo blue-grey cow in milk*		Stella				By Eurite of Inchoch, out of homebred cow; supreme champion at 1976 Dounby Show.
-1978	D. Work & Son, Ness, Shapinsay			7yo cow in milk*			-				By SH bull Cavans Pablo, out of homebred cross cow; champion at Shapinsay show 1978-1980.
-1979	D. Work & Son, Ness, Shapinsay			8yo cow in milk*			-
-1980	J. S. Baillie, Sebay, Tankerness		-					-				It is suggested but not made clear that this animal was also best AA cow.
-1981	J. S. Baillie, Sebay, Tankerness		8yo AA cow in calf			Ethlinkage of Eastfield		By Gentle Junior of Sturton.
-1982	M. C. Wood & Son, Garson, Sandwick		5yo AAx cow in milk*			-				By Haymount, out of AAx cow.
-1983	D. W. Sinclair & Co, Unigarth, Sandwick		9yo AA cow in milk*			Primlass of Unigarth		By Elprovost of Eastfield, out of Pearl of Unigarth; supreme champion in 1983.
-1984	W. R. Baillie, Biggings, Toab			8yo CHx cow				Snowflake			By Kairsknowe Festival, out of CH cow Kathleen; supreme champion in 1984.
-1985	J. S. Baillie, Sebay, Tankerness		3yo AA cow				Princess of Broompark		By Ballycaher Noble, out of Princess 6th of Kinermony; bought from Charlie Ross, Broompark, Ross-shire; supreme champion in 1987.
-1986	W. G. Kirkpatrick & Sons, Newhall, Stromness	4yo cow in milk				-				By CHx bull Ron, out of AAx cow; bought from J. & H. Flett, Boardhouse, Birsay.
-1987	J. S. Baillie, Sebay, Tankerness		5yo AA cow				Princess of Broompark		By Ballycaher Noble, out of Princess 6th of Kinermony; bought from Charlie Ross, Broompark, Ross-shire; supreme champion in 1987.
-1988	J. & H. Flett, Boardhouse, Birsay		AAx cow in calf*			-				By AA bull Proud Laddie of Carmains, out of AAx cow.
-1989	J. S. Baillie, Sebay, Tankerness		3yo AA cow				Princess of Broompark		By Ballycaher Noble, out of Princess 6th of Kinermony; bought from Charlie Ross, Broompark, Ross-shire; supreme champion in 1987.
-1990	Messrs Davidson, Skaill, Sandwick		2yo AA heifer in calf			Nicks Delia			By DMM Esoteric, out of Tomil Delia; supreme champion in 1990 & 1991.
-1991	Messrs Davidson, Skaill, Sandwick		3yo AA cow				Nicks Delia			By DMM Esoteric, out of Tomil Delia; supreme champion in 1990 & 1991.
-1992	Messrs Davidson, Skaill, Sandwick		2yo AA heifer*				Skaill Delia			By Windover Justifier, out of Nicks Delia.
-1993	J. Thomson, Garth, South Ronaldsay		16mo CHx heifer				Caledonia			By CH bull Allanfauld Vagabond, out of LMx cow; supreme champion in 1993 and at 1993 'Hope Show.
-1994	T. & J. Leslie, Quoymorhouse, Shapinsay		14mo LMx heifer*			Little Mo			By LM bull Greenbank Frank, out of homebred LMx cow.
-1995	J. Baillie, Sebay, Tankerness			8yo AA cow				Jan Erica of Little Kilry	By Euroe H48 of Newcairnie, out of Rashiehall Juana Erica H13; supreme champion in 1995.
-1996	Messrs Davidson, Skaill, Sandwick		2yo AA heifer in calf*			Skaill Delia T2			By Rito 2100, out of Skaill Delia O2.
-1997	R. & J. Johnson, Hewan, Shapinsay		7yo cross cow in calf*			-				By Newhouse Banker, out of homebred cross cow; supreme champion in 1997.
-1998	G. T. & S. Coghill, Muce, Birsay		5yo CH cow in milk			New Moan Iris			By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray, in October 1997; supreme champion in 1998 and at 1998 Dounby Show.
-1999	Messrs Davidson, Skaill, Sandwick 		1yo AA heifer*				Skaill Diana			By Edinburgh of The Moss, out of Skaill Diana R4; supreme champion in 1999. 
-2000	Messrs Davidson, Skaill, Sandwick		8yo AA cow in calf*			Skaill Diana P8			By Canadian AI bull MVHF Extra, out of Nicks Delia; supreme champion in 2000.
-2001		No Show due to Foot & Mouth outbreak.
-2002	R. J. Taylor, Brencherhouse, Birsay		November 2001 black LMx heifer*		Taylor's Touch of Class		By AI bull Ronick Hawk, out of homebred BBxLM cow; supreme champion in 2002 and at 2002 Dounby Show.
-2003	John Hepburn, Burnside, Tankerness		2yo AA heifer in calf*			Newlot Esmerelda		By Galacantry Predator, out of Esmerelda 6th of Newlot; supreme champion at 2003 East Mainland Show.
-2004	W. R. Baillie, Biggings, Toab			17mo CH heifer*				Ballieston Topsy		By Moyness President, out of Ballieston Maiden.
+1945	?
+1946	James Gaddie, Holm	-	-	-
+1947	A. A. Baikie, Hall of Tankerness	7yo cross bred polled cow	-	Supreme champion at 1947 County show, at East Mainland Show 1946-47, and 1949.
+1948	John D. Clouston, Quatquoy, Firth	Cross bred polled cow	-	Supreme champion in 1948.
+1949	Mrs Baikie, Hall of Tankerness	9yo cross bred blue cow	-	Supreme champion at 1947 and 1949 County show and 1949 East Mainland Show.
+1950	Flett Bros, Kingshouse, Harray	AA heifer	-	-
+1951	Messrs T. Smith & Son, Lower Cornquoy, Holm	Black cross cow	-	-
+1952	Mr James Baillie, Sebay, Tankerness	2yo cross heifer in calf	-	-
+1953	Messrs Bain & Smith, Hall of Tankerness	7yo AA cow	Myrtle March Mad	By Envoy of Derculich; supreme champion in 1953, and at 1953 East Mainland Show.
+1954	Messrs Flett Bros, Kingshouse, Harray	5yo SH cow	-	By Ashcreavie White Knight; bred at Philorth; roan; supreme champion in 1954 and at 1954 Dounby Show.
+1955	John D. Clouston, Quatquoy, Firth	7yo cross polled black cow	-	Supreme champion in 1955 and at 1955 Dounby Show.
+1956	W. Flett, Northbigging, Harray	9yo blue polled cross cow	-	Supreme champion in 1956
+1957	W. Ritch, Kierfiold, Sandwick	5yo cross cow in calf	-	Bred at Hurtiso, Rousay; supreme champion in 1956 and at 1956 Rousay Show, and 1957 Dounby Show.
+1958	J. G. Garrioch, Breckan, Costa, Evie	2yo SH heifer in calf	-	By Calrossie Claymore.
+1959	Messrs Flett Bros, Kingshouse	5yo black cross polled cow	-	Supreme champion in 1959.
+1960	W. Ritch, Kierfiold, Sandwick	8yo blue-grey cow	-	Previous champion at County show and twice at Dounby show (years not given).
+1961	Messrs M. C. Wood & Sons, Garson, Sandwick	8yo black polled cross cow in calf	-	Supreme champion in 1961.
+1962	A. A. Learmonth, Howe, Shapinsay	5yo black polled cow*	-	Supreme champion at Shapinsay show 1960-1962.
+1963	T. Dearness, Southfield, Burray	4yo AA cow	Butora of Kincardine	By Bessort of Kincardine, out of Buto if Kincardine; bought at Kincardine dispersal sale in 1961; supreme champion in 1963 and at 1962 & 1963 'Hope Show.
+1964	T. Dearness, Southfield, Burray	4yo AA cow	Butora of Kincardine	
+1965	R. R. Johnston, Trumland Farm, Rousay	2yo AA heifer	Corbairdy Even Crescent	By Earl of Cairnfield; bought at Cobairdy dispersal sale for 270gns; grand dam, Even Girl III, was twice champion at the Royal Highland Show.
+1966	R. R. Johnston, Trumland Farm, Rousay	3yo AA cow	Corbairdy Even Crescent
+1967	J. S. Baillie, Sebay, Tankerness	3yo AA cow in calf	Effective of Oykell	By Boshun of Haymount.
+1968	J. S. Baillie, Sebay, Tankerness	4yo AA cow	Oykell Effective	By Bosun of Haymount.
+1969	D. Work & Son, Ness, Shapinsay	2yo black polled cross heifer in calf	-	By Jewra Eric of Buchaam.
+1970	D. Swannie, Midhouse, South Ronaldsay	8yo cow	-	By Drummer of Fordhouse; roan; champion at 1970 'Hope show.
+1971	?
+1972	W. Voy, Milldam, Tankerness	6yo cross cow	-	By Western Lovat Edmundo.
+1973	J. S. Baillie, Sebay, Tankerness	3yo AA cow	Ermonax of Eastfield	By Juanamax Eric of Douneside.
+1974	D. Swannie, Midhouse, South Ronaldsay	12yo cow	-	Coloured cross champion for 4th time.
+1975	J. S. Baillie, Sebay, Tankerness	8yo black cross cow in calf*	-	By Wester Lovat Eanomo.
+1976	J. & E. Flett, Northbigging, Harray	-	-	Reserve champion?
+1977	R. Flett, Fidge, Twatt	7yo blue-grey cow in milk*	Stella	By Eurite of Inchoch, out of homebred cow; supreme champion at 1976 Dounby Show.
+1978	D. Work & Son, Ness, Shapinsay	7yo cow in milk*	-	By SH bull Cavans Pablo, out of homebred cross cow; champion at Shapinsay show 1978-1980.
+1979	D. Work & Son, Ness, Shapinsay	8yo cow in milk*	-
+1980	J. S. Baillie, Sebay, Tankerness	-	-	It is suggested but not made clear that this animal was also best AA cow.
+1981	J. S. Baillie, Sebay, Tankerness	8yo AA cow in calf	Ethlinkage of Eastfield	By Gentle Junior of Sturton.
+1982	M. C. Wood & Son, Garson, Sandwick	5yo AAx cow in milk*	-	By Haymount, out of AAx cow.
+1983	D. W. Sinclair & Co, Unigarth, Sandwick	9yo AA cow in milk*	Primlass of Unigarth	By Elprovost of Eastfield, out of Pearl of Unigarth; supreme champion in 1983.
+1984	W. R. Baillie, Biggings, Toab	8yo CHx cow	Snowflake	By Kairsknowe Festival, out of CH cow Kathleen; supreme champion in 1984.
+1985	J. S. Baillie, Sebay, Tankerness	3yo AA cow	Princess of Broompark	By Ballycaher Noble, out of Princess 6th of Kinermony; bought from Charlie Ross, Broompark, Ross-shire; supreme champion in 1987.
+1986	W. G. Kirkpatrick & Sons, Newhall, Stromness	4yo cow in milk	-	By CHx bull Ron, out of AAx cow; bought from J. & H. Flett, Boardhouse, Birsay.
+1987	J. S. Baillie, Sebay, Tankerness	5yo AA cow	Princess of Broompark	By Ballycaher Noble, out of Princess 6th of Kinermony; bought from Charlie Ross, Broompark, Ross-shire; supreme champion in 1987.
+1988	J. & H. Flett, Boardhouse, Birsay	AAx cow in calf*	-	By AA bull Proud Laddie of Carmains, out of AAx cow.
+1989	J. S. Baillie, Sebay, Tankerness	3yo AA cow	Princess of Broompark	By Ballycaher Noble, out of Princess 6th of Kinermony; bought from Charlie Ross, Broompark, Ross-shire; supreme champion in 1987.
+1990	Messrs Davidson, Skaill, Sandwick	2yo AA heifer in calf	Nicks Delia	By DMM Esoteric, out of Tomil Delia; supreme champion in 1990 & 1991.
+1991	Messrs Davidson, Skaill, Sandwick	3yo AA cow	Nicks Delia	By DMM Esoteric, out of Tomil Delia; supreme champion in 1990 & 1991.
+1992	Messrs Davidson, Skaill, Sandwick	2yo AA heifer*	Skaill Delia	By Windover Justifier, out of Nicks Delia.
+1993	J. Thomson, Garth, South Ronaldsay	16mo CHx heifer	Caledonia	By CH bull Allanfauld Vagabond, out of LMx cow; supreme champion in 1993 and at 1993 'Hope Show.
+1994	T. & J. Leslie, Quoymorhouse, Shapinsay	14mo LMx heifer*	Little Mo	By LM bull Greenbank Frank, out of homebred LMx cow.
+1995	J. Baillie, Sebay, Tankerness	8yo AA cow	Jan Erica of Little Kilry	By Euroe H48 of Newcairnie, out of Rashiehall Juana Erica H13; supreme champion in 1995.
+1996	Messrs Davidson, Skaill, Sandwick	2yo AA heifer in calf*	Skaill Delia T2	By Rito 2100, out of Skaill Delia O2.
+1997	R. & J. Johnson, Hewan, Shapinsay	7yo cross cow in calf*	-	By Newhouse Banker, out of homebred cross cow; supreme champion in 1997.
+1998	G. T. & S. Coghill, Muce, Birsay	5yo CH cow in milk	New Moan Iris	By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray, in October 1997; supreme champion in 1998 and at 1998 Dounby Show.
+1999	Messrs Davidson, Skaill, Sandwick 	1yo AA heifer*	Skaill Diana	By Edinburgh of The Moss, out of Skaill Diana R4; supreme champion in 1999. 
+2000	Messrs Davidson, Skaill, Sandwick	8yo AA cow in calf*	Skaill Diana P8	By Canadian AI bull MVHF Extra, out of Nicks Delia; supreme champion in 2000.
+2001	No Show due to Foot & Mouth outbreak.
+2002	R. J. Taylor, Brencherhouse, Birsay	November 2001 black LMx heifer*	Taylor's Touch of Class	By AI bull Ronick Hawk, out of homebred BBxLM cow; supreme champion in 2002 and at 2002 Dounby Show.
+2003	John Hepburn, Burnside, Tankerness	2yo AA heifer in calf*	Newlot Esmerelda	By Galacantry Predator, out of Esmerelda 6th of Newlot; supreme champion at 2003 East Mainland Show.
+2004	W. R. Baillie, Biggings, Toab	17mo CH heifer*	Ballieston Topsy	By Moyness President, out of Ballieston Maiden.

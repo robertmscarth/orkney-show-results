@@ -1,15 +1,14 @@
-County Show Limousin Champions 1991-present
-Year	Exhibitor					Champion		Name				Notes
-1991	E. Flett, Hurtiso, Holm				Bull			Jencra Ensign			By Talent, out of Dawk Phlox.
-1992	E. Flett, Hurtiso, Holm				4yo bull		Ronick Dolman			By Fleethill Ace, out of Ronick Violette; previously champion at Perth bull sales.
-1993	E. Flett, Hurtiso, Holm				5yo bull		Ronick Dolman			
-1994	G. T. & S. Coghill, Muce, Birsay		2.5yo in calf heifer	Genavive			By Hallingbury Bruce; bought at Carlisle.
-1995	E. Flett, Hurtiso, Holm				Bull			Galurin				Imported from France.
-1996	G. T. & S. Coghill, Muce, Birsay		Cow			Hudscales Genevieve		By Grange Karaoke, out of a Hudscales cow; bought as a yearling in Carlisle.
-1997	G. T. & S. Coghill, Muce, Birsay		In calf heifer		Holly Littlejohn		By Heartside Glenn, out of Holly Topaz; bought in Spring 1997.
-1998	Muir & Sons, Gorn, Shapinsay			calf's teeth heifer	Muirwood Mona			By Hartside Ideal, out of Muirwood Iona.
-1999	Muir & Sons, Gorn, Shapinsay			2yo cow*		Muirwood Mona			
-2000	L. Muir, Midhouse, Harray			8yo dry cow		Poplars Heidi			By Galbinny Ethan, out of Cowbridge Beauty; bred by Mrs R. Keeling, Poplars Farm, North Stowmarket, Suffolk; bought at annual LM sale, Carlisle, May 1999; supreme champion at 1999 Dounby Show.
-2001		No Show due to Foot & Mouth outbreak.
-2002	L. Muir, Midhouse, Harray			10yo cow		Poplars Heidi			By Galbinny Ethan, out of Cowbridge Beauty; bred by Mrs R. Keeling, Poplars Farm, North Stowmarket, Suffolk; bought at annual LM sale, Carlisle, May 1999; supreme champion at 1999 Dounby Show.
-2003	A. & L. Cromarty, Hools, South Ronaldsay	6yo cow in milk		Newsham Aire			By WalkersIadmire; bought as a calf at foot from Yorkshire 5.5 years ago; supreme champion at 2003 'Hope show.
+Year	Exhibitor	Champion	Name	Notes
+1991	E. Flett, Hurtiso, Holm	Bull	Jencra Ensign	By Talent, out of Dawk Phlox.
+1992	E. Flett, Hurtiso, Holm	4yo bull	Ronick Dolman	By Fleethill Ace, out of Ronick Violette; previously champion at Perth bull sales.
+1993	E. Flett, Hurtiso, Holm	5yo bull	Ronick Dolman	
+1994	G. T. & S. Coghill, Muce, Birsay	2.5yo in calf heifer	Genavive	By Hallingbury Bruce; bought at Carlisle.
+1995	E. Flett, Hurtiso, Holm	Bull	Galurin	Imported from France.
+1996	G. T. & S. Coghill, Muce, Birsay	Cow	Hudscales Genevieve	By Grange Karaoke, out of a Hudscales cow; bought as a yearling in Carlisle.
+1997	G. T. & S. Coghill, Muce, Birsay	In calf heifer	Holly Littlejohn	By Heartside Glenn, out of Holly Topaz; bought in Spring 1997.
+1998	Muir & Sons, Gorn, Shapinsay	calf's teeth heifer	Muirwood Mona	By Hartside Ideal, out of Muirwood Iona.
+1999	Muir & Sons, Gorn, Shapinsay	2yo cow*	Muirwood Mona	
+2000	L. Muir, Midhouse, Harray	8yo dry cow	Poplars Heidi	By Galbinny Ethan, out of Cowbridge Beauty; bred by Mrs R. Keeling, Poplars Farm, North Stowmarket, Suffolk; bought at annual LM sale, Carlisle, May 1999; supreme champion at 1999 Dounby Show.
+2001	No Show due to Foot & Mouth outbreak.
+2002	L. Muir, Midhouse, Harray	10yo cow	Poplars Heidi	By Galbinny Ethan, out of Cowbridge Beauty; bred by Mrs R. Keeling, Poplars Farm, North Stowmarket, Suffolk; bought at annual LM sale, Carlisle, May 1999; supreme champion at 1999 Dounby Show.
+2003	A. & L. Cromarty, Hools, South Ronaldsay	6yo cow in milk	Newsham Aire	By WalkersIadmire; bought as a calf at foot from Yorkshire 5.5 years ago; supreme champion at 2003 'Hope show.

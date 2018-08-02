@@ -1,36 +1,35 @@
-Sanday Show Supreme Cattle Champions 1970-present
-Year	Exhibitor			Champion			Name		Notes
-1970	J. Swanney, North Howar		grey polled cow			-		-
-1971	W. Allan, Bressigarth		roan cross cow			-		-
-1972	J. Swanney, North Howar		-				-		-
-1973	W. Allan, Bressigarth		-				-		-
-1974		?
-1975	D. Sinclair, How		AA cow				-		-
-1976	J. Lennie, Seaview		AA bull				-		Orkney bred.
-1977	J. Lennie, Seaview		-				-		-
-1978	J. Lennie, Seaview		blue-grey cow			-		-
-1979		?
-1980	J. Lennie, Seaview		CHx stot			-		-
-1981	J. Lennie, Seaview		6yo AAx cow			-		-
-1982	D. A. & M. Sinclair, How	SM bull				-		-
-1983	W. & A. Muir, Hermisgarth	cross cow			-		-
-1984		?
-1985	J. Lennie, Seaview		cross cow			-		-
-1986	G. & J. Brown			-				-		-
-1987	G. & J. Brown			-				-		-
-1988	W. & A. Muir, Hermisgarth	black polled cow		-		-
-1989	G. & J. Brown			-				-		-
-1990	T. & M. Leslie, Lopness		1yo LMx heifer			-		-
-1991	T. & M. Leslie, Lopness		LMx black polled stot		-		-
-1992	W. & A. Muir, Hermisgarth	6yo black polled cow		-		-
-1993	J. Lennie, Seaview		2yo AAxLM heifer in calf	Black Magic	By Proud Laddie of Car Mains; bought as calf from Hamish Flett, Boardhouse, Birsay.
-1994	T. & M. Leslie, Lopness		5mo CHxLM heifer calf		-		-
-1995	T. & M. Leslie, Lopness		1yo CHxLM heifer		-		same animal as last year
-1996	J. Lennie, Seaview		5yo AAxLM cow			Black Magic	By Proud Laddie of Car Mains; bought as calf from Hamish Flett, Boardhouse, Birsay.
-1997	J. Lennie, Seaview		6yo AAxLM cow			Black Magic	
-1998	J. Lennie, Seaview		7yo AAxLM cow			Black Magic	
-1999	J. Lennie, Seaview		7yo LMx cow in milk*		-		By LM bull from Boardhouse, out of AAx cow.
-2000	J. Lennie, Seaview		2yo LMx heifer in calf		Magic		By LM bull Aldwyck Icarus, out of homebred cross cow, Magic; dam was supreme champion in 1993, 1996-98.
-2001		No show due to Foot & Mouth outbreak.
-2002	R. Gilholm, Hammerbrake		8mo LMx heifer calf		Jubilee Rose	By LM bull Roughly Plover, out of BBx cow.
-2003	J. Lennie, Seaview		5yo LMx cow in milk*		Magic		By LM bull Aldwyck Icarus, out of homebred cross cow, Magic; dam was supreme champion in 1993, 1996-98.
+Year	Exhibitor	Champion	Name	Notes
+1970	J. Swanney, North Howar	grey polled cow	-	-
+1971	W. Allan, Bressigarth	roan cross cow	-	-
+1972	J. Swanney, North Howar	-	-	-
+1973	W. Allan, Bressigarth	-	-	-
+1974	?
+1975	D. Sinclair, How	AA cow	-	-
+1976	J. Lennie, Seaview	AA bull	-	Orkney bred.
+1977	J. Lennie, Seaview	-	-	-
+1978	J. Lennie, Seaview	blue-grey cow	-	-
+1979	?
+1980	J. Lennie, Seaview	CHx stot	-	-
+1981	J. Lennie, Seaview	6yo AAx cow	-	-
+1982	D. A. & M. Sinclair, How	SM bull	-	-
+1983	W. & A. Muir, Hermisgarth	cross cow	-	-
+1984	?
+1985	J. Lennie, Seaview	cross cow	-	-
+1986	G. & J. Brown	-	-	-
+1987	G. & J. Brown	-	-	-
+1988	W. & A. Muir, Hermisgarth	black polled cow	-	-
+1989	G. & J. Brown	-	-	-
+1990	T. & M. Leslie, Lopness	1yo LMx heifer	-	-
+1991	T. & M. Leslie, Lopness	LMx black polled stot	-	-
+1992	W. & A. Muir, Hermisgarth	6yo black polled cow	-	-
+1993	J. Lennie, Seaview	2yo AAxLM heifer in calf	Black Magic	By Proud Laddie of Car Mains; bought as calf from Hamish Flett, Boardhouse, Birsay.
+1994	T. & M. Leslie, Lopness	5mo CHxLM heifer calf	-	-
+1995	T. & M. Leslie, Lopness	1yo CHxLM heifer	-	same animal as last year
+1996	J. Lennie, Seaview	5yo AAxLM cow	Black Magic	By Proud Laddie of Car Mains; bought as calf from Hamish Flett, Boardhouse, Birsay.
+1997	J. Lennie, Seaview	6yo AAxLM cow	Black Magic	
+1998	J. Lennie, Seaview	7yo AAxLM cow	Black Magic	
+1999	J. Lennie, Seaview	7yo LMx cow in milk*	-	By LM bull from Boardhouse, out of AAx cow.
+2000	J. Lennie, Seaview	2yo LMx heifer in calf	Magic	By LM bull Aldwyck Icarus, out of homebred cross cow, Magic; dam was supreme champion in 1993, 1996-98.
+2001	No show due to Foot & Mouth outbreak.
+2002	R. Gilholm, Hammerbrake	8mo LMx heifer calf	Jubilee Rose	By LM bull Roughly Plover, out of BBx cow.
+2003	J. Lennie, Seaview	5yo LMx cow in milk*	Magic	By LM bull Aldwyck Icarus, out of homebred cross cow, Magic; dam was supreme champion in 1993, 1996-98.

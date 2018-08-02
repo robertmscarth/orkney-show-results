@@ -1,8 +1,7 @@
-Eday Show Supreme Champions 1936-1946
-Year	Exhibitor			Champion	Name	Notes
-1936	G. Miller, Stenaquoy		2yo heifer	-	-
-1937		Show held 18th July; need to get show report.
-1938	J. Miller, Ferniebrae		Polled cow	-	-
-1939	G. Miller, Stenaquoy		2yo heifer	-	-
+Year	Exhibitor	Champion	Name	Notes
+1936	G. Miller, Stenaquoy	2yo heifer	-	-
+1937	Show held 18th July; need to get show report.
+1938	J. Miller, Ferniebrae	Polled cow	-	-
+1939	G. Miller, Stenaquoy	2yo heifer	-	-
 1940-1945	No show due to war.
 1946	Mr J. Stevenson, Carrick	"B.P." cow	-	Does "B.P." mean black polled?

@@ -1,24 +1,23 @@
-Dounby Show Pure-bred Continental Champions 1982-present
-Year	Exhibitor					Champion		Name			Notes
-1982	S. Bain & Co, Quoyholmslie, Stromness		4yo CH bull		-			Bought at Perth.
-1983		No entries forward.
-1984	G. T. & S. Coghill, Muce, Birsay		CH calf			Hekra Vera		By Tottenhall Hublo, out of Acton Oenone; born 1/4/1984.
-1985	J. & S. Hay, East Howe, Birsay			CH bull			Blelack Unique		By Fairweather Robspier, out of Blelack cow.
-1986	W. G. Kirkpatrick & Sons, Newhall, Stromness	CH bull			Ballieston Universe	By Wincote Jasper, out of Sway Ninette; bred by W. R. Baillie, Biggings, Toab; sire was supreme champion at 1978 & 1982 County Show.
-1987	G. T. & S. Coghill, Muce, Birsay		3yo CH cow		Cirrus Vanda		By Scottish Mercury; bought at Perth in February 1987.
-1988	G. T. & S. Coghill, Muce, Birsay		CH heifer in calf	Hekra Buanco		By Bowerhouse Topper, out of Mornview Tamar.
-1989	Messrs Davidson, Skaill Farm, Sandwick		-			-			-
-1990	D. W. Sinclair & Co, Unigarth, Sandwick		2yo CH bull		Royston Democrat	By Glenleary Attenhall.
-1991	J. & N. Isbister, New Moan, Harray		CH heifer calf*		New Moan Goldie		By Balthalock Dalesman, out of Brampton Victoria.
-1992	I. R. Scott, Howe, Harray			8yo SM cow in calf	Hockenhull Pauline	Bought at Perth.
-1993	S. & F. Nicolson, Stenaday, Harray		2yo LM heifer in calf	Mountrock Golden	By Dali, out of Mountrock Bessie.
-1994	S. & F. Nicolson, Stenaday, Harray		3yo LM cow		Mountrock Golden	
-1995	Garson Farms, Sandwick				2yo CH heifer in calf*	Garson Isla		By Brampton Consort, out of Gredington Caniche.
-1996	Garson Farms, Sandwick				3yo CH bull*		Garson Impression	By Brampton Ace, out of Gredington Francesca.
-1997	G. T. & S. Coghill, Muce, Birsay		2yo LM heifer in calf	Holly Little Gem	By Hartside Glen, out of Holly Topas.
-1998	G. T. & S. Coghill, Muce, Birsay		5yo CH cow		New Moan Iris		By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray in October 1997; supreme champion in 1998.
-1999	L. Muir, Midhouse, Harray			7yo LM cow		Poplars Heidi		By Galbinny Ethan, out of Cowbridge Beauty; bred by Mrs R. Keeling, Poplars Farm, North Stowmarket, Suffolk; bought at annual LM sale, Carlisle, May 1999; supreme champion in 1999.
-2000	G. T. & S. Coghill, Muce, Birsay		7yo CH cow		New Moan Iris		By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray in October 1997; supreme champion in 1998.
-2001		No show due to Foot & Mouth outbreak.
-2002	L. Spence, Spengar, Sandwick			1yo CH bull*		Spengar Sambhar		By Brampton Four-Star, out of Mortimer's Lauren; born April 2001.
-2003	Garson Farms, Sandwick				1yo CH heifer		Airdlin Treasure	By Airdlin Ploughman, out of Maerdy Limpet; bought at Perth February 2003.
+Year	Exhibitor	Champion	Name	Notes
+1982	S. Bain & Co, Quoyholmslie, Stromness	4yo CH bull	-	Bought at Perth.
+1983	No entries forward.
+1984	G. T. & S. Coghill, Muce, Birsay	CH calf	Hekra Vera	By Tottenhall Hublo, out of Acton Oenone; born 1/4/1984.
+1985	J. & S. Hay, East Howe, Birsay	CH bull	Blelack Unique	By Fairweather Robspier, out of Blelack cow.
+1986	W. G. Kirkpatrick & Sons, Newhall, Stromness	CH bull	Ballieston Universe	By Wincote Jasper, out of Sway Ninette; bred by W. R. Baillie, Biggings, Toab; sire was supreme champion at 1978 & 1982 County Show.
+1987	G. T. & S. Coghill, Muce, Birsay	3yo CH cow	Cirrus Vanda	By Scottish Mercury; bought at Perth in February 1987.
+1988	G. T. & S. Coghill, Muce, Birsay	CH heifer in calf	Hekra Buanco	By Bowerhouse Topper, out of Mornview Tamar.
+1989	Messrs Davidson, Skaill Farm, Sandwick	-	-	-
+1990	D. W. Sinclair & Co, Unigarth, Sandwick	2yo CH bull	Royston Democrat	By Glenleary Attenhall.
+1991	J. & N. Isbister, New Moan, Harray	CH heifer calf*	New Moan Goldie	By Balthalock Dalesman, out of Brampton Victoria.
+1992	I. R. Scott, Howe, Harray	8yo SM cow in calf	Hockenhull Pauline	Bought at Perth.
+1993	S. & F. Nicolson, Stenaday, Harray	2yo LM heifer in calf	Mountrock Golden	By Dali, out of Mountrock Bessie.
+1994	S. & F. Nicolson, Stenaday, Harray	3yo LM cow	Mountrock Golden	
+1995	Garson Farms, Sandwick	2yo CH heifer in calf*	Garson Isla	By Brampton Consort, out of Gredington Caniche.
+1996	Garson Farms, Sandwick	3yo CH bull*	Garson Impression	By Brampton Ace, out of Gredington Francesca.
+1997	G. T. & S. Coghill, Muce, Birsay	2yo LM heifer in calf	Holly Little Gem	By Hartside Glen, out of Holly Topas.
+1998	G. T. & S. Coghill, Muce, Birsay	5yo CH cow	New Moan Iris	By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray in October 1997; supreme champion in 1998.
+1999	L. Muir, Midhouse, Harray	7yo LM cow	Poplars Heidi	By Galbinny Ethan, out of Cowbridge Beauty; bred by Mrs R. Keeling, Poplars Farm, North Stowmarket, Suffolk; bought at annual LM sale, Carlisle, May 1999; supreme champion in 1999.
+2000	G. T. & S. Coghill, Muce, Birsay	7yo CH cow	New Moan Iris	By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray in October 1997; supreme champion in 1998.
+2001	No show due to Foot & Mouth outbreak.
+2002	L. Spence, Spengar, Sandwick	1yo CH bull*	Spengar Sambhar	By Brampton Four-Star, out of Mortimer's Lauren; born April 2001.
+2003	Garson Farms, Sandwick	1yo CH heifer	Airdlin Treasure	By Airdlin Ploughman, out of Maerdy Limpet; bought at Perth February 2003.

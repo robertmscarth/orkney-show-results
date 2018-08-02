@@ -1,67 +1,66 @@
-County Show Best Butcher's Beast 1936-present
-Year	Exhibitor					Champion				Name				Notes
-1936	Mr James Ritch, Hatston, St. Ola		-					-				Orkney bred animal.
-1937	W. T. Wood & Sons, Balfour Mains, Shapinsay	-					-				-
-1938	Mr Ritch, Hatston, St. Ola			-					-				-
-1939	Mr Ritch, Hatston, St. Ola			-					-				-
+Year	Exhibitor	Champion	Name	Notes
+1936	Mr James Ritch, Hatston, St. Ola	-	-	Orkney bred animal.
+1937	W. T. Wood & Sons, Balfour Mains, Shapinsay	-	-	-
+1938	Mr Ritch, Hatston, St. Ola	-	-	-
+1939	Mr Ritch, Hatston, St. Ola	-	-	-
 1940-1944	No show due to war.
-1945		?
-1946	R. Johnston, Rousay				-					-				-
-1947	W. Harvey, Quoydandy, St. Ola			-					-				-
-1948	Robert R. Johnston, Trumland, Rousay		-					-				-
-1949	W. Harvey, Quoydandy, St. Ola			-					-				-
-1950	W. & J. Scott, Bigging, Stenness		-					-				-
-1951	Mr J. Slater, Yarpha, Orphir			Stot					-				-
-1952	W. H. Harvey, Quoydandy, St. Ola		-					-				-
-1953	Mr J. Slater, Yarpha, Orphir			Black stot				-				-
-1954	W. Ritch, Kierfiold, Sandwick			-					-				-
-1955	D. Work, Ness, Shapinsay			-					-				-
-1956	M. C. Wood & Sons, Garson, Sandwick		-					-				-
-1957	M. C. Wood & Sons, Garson, Sandwick		-					-				-
-1958	R. Johnston, Hewan, Shapinsay			Stot					-				-
-1959	R. Johnston, Hewan, Shapinsay			Stot					-				Supreme champion at 1959 Shapinsay Show.
-1960	A. A. Learmonth, Howe, Shapinsay		Stot					-				-
-1961	A. A. Learmonth, Howe, Shapinsay		Stot					-				-
-1962	W. Gorn, Flaws, Holm				Stot					-				Sold to Mr D. G. Spence for £150 at sale on Monday following the show.
-1963	R. Johnston, Hewan, Shapinsay			-					-				-
-1964	A. A. Learmonth, Howe, Shapinsay		2yo black polled cross stot		-				Sold at Kirkwall Auction Mart for £231 to Mr D. G. Spence, Royal Hotel, Kirkwall; supreme champion 1964.
-1965	D. Work, Ness, Shapinsay			Roan stot				-				-
-1966	A. A. Learmonth, Howe, Shapinsay		18mo stot				-				By Pete of Durran.
-1967	A. A. Learmonth, Howe, Shapinsay		2yo stot				-				-
-1968		?
-1969	D. Work, Ness, Shapinsay			2 teeth cross stot			-				By Jewra Eric of Buchaam
-1970	A. A. Learmonth, Howe, Shapinsay		-					-				-
-1971	D. Work, Ness, Shapinsay			-					-				-
-1972	A. A. Learmonth, Howe, Shapinsay		2yo stot				-				By Black Boris of Wittington; not supreme champion.
-1973	A. A. Learmonth, Howe, Shapinsay		-					-				-
-1974	A. A. Learmonth, Howe, Shapinsay		-					-				-
-1975	A. A. Learmonth, Howe, Shapinsay		-					-				-
-1976	J. S. Baillie, Sebay, Tankerness		2yo CHxHF heifer			-				-
-1977	J. S. Baillie, Sebay, Tankerness		CHx heifer				-				By Milk Marketing Board AI bull Sujet, out of AAxHF cow.
-1978	W. Dunnet, Cletts, South Ronaldsay		HFx 2 teeth stot			-				Supreme champion at 1978 'Hope show.
-1979	J. W. Hepburn, Burnside, Tankerness		17mo CHx stot*				-				By Kernowe Festival, out of homebred cow; sire cost £10,000.
-1980	Muir & Sons, Gorn, Shapinsay			15mo heifer				-				By Tavey Monte Carlo, out of SHx cow; Muir & Sons first time at County Show; sold to the judge, Mr J. S. Watson, Balhousie, Carnoustie, Angus for £600 at mart sale on Monday, weighed 450kg.
-1981	D. Work & Son, Ness, Shapinsay			17mo CHx stot				-				By CH bull Tam's Minstrel.
-1982	D. Work, Ness, Shapinsay			17mo CHx stot				Raymond				Bred by Mr Flaws, Nisthouse, Evie; bought at October calf sale in Kirkwall.
-1983	D. Work, Ness, Shapinsay			17mo black x stot*			Black Magic			-
-1984	D. Work & Son, Ness, Shapinsay			1yo pure AA stot			-				By Pernod of Classlochie, out of pure unregistered AA cow.
-1985	Phyllis M. Hepburn, Burnside, Tankerness	CHxAA heifer				-				By CH bull Scottish Milord, out of AA cow.
-1986	John Hepburn, Burnside, Tankerness		-					-				-
-1987	G. T. & S. Coghill, Muce, Birsay		-					-				-
-1988	Phyllis Hepburn, Messigate, Tankerness		16mo LMxAA stot				-				By LM bull Tanhylnn So Good, out of AA cow Barbara of Nowlott.
-1989	S. &. J. D. Robertson, Saverock, St. Ola	-					-				-
-1990	G. T. & S. Coghill, Muce, Birsay		-					-				-
-1991	S. & J. D. Robertson, Saverock, St. Ola		-					-				-
-1992	W. G. Kirkpatrick & Sons, Vestrafiold, Sandwick	LMx stot				-				By Normande Viking.
-1993	J. Thomson, Garth, South Ronaldsay		16mo CHx heifer				Caledonia			By CH bull Allanfauld Vagabond, out of LMx cow; supreme champion in 1993 and at 1993 'Hope Show.
-1994	Muir & Sons, Gorn, Shapinsay			-					-				-
-1995	T. & J. Leslie, Quoymorhouse, Shapinsay		-					-				-
-1996	J. A. Scott & Co., Howe, Harray			17mo CHx heifer*			-				By CH bull Seawell Goutte, out of homebred LM cow.
-1997	Muir & Sons, Gorn, Shapinsay			-					-				-
-1998	T. & J. Leslie, Quoymorhouse, Shapinsay		17mo heifer				-				By Hartside Jacko, out of LMx cow.
-1999	Garson Farms, Sandwick				Calfs teeth stot			Beckham				By Bailea Justice, out of LMxAA cow.
-2000	G. T. & S. Coghill, Muce, Birsay		16mo LMx heifer*			-				By Middledale Jeeves, out of homebred CH cow.
-2001		No Show due to Foot & Mouth outbreak.
-2002	T. & J. Leslie, Quoymorhouse, Shapinsay		LMx calfs teeth heifer			-				By Shire Lanzarote.
-2003	Cogle & Co., Newbigging, South Ronaldsay	cross bred heifer			-				-
-2004	Muir & Sons, Gorn, Shapinsay			-					-				-
+1945	?
+1946	R. Johnston, Rousay	-	-	-
+1947	W. Harvey, Quoydandy, St. Ola	-	-	-
+1948	Robert R. Johnston, Trumland, Rousay	-	-	-
+1949	W. Harvey, Quoydandy, St. Ola	-	-	-
+1950	W. & J. Scott, Bigging, Stenness	-	-	-
+1951	Mr J. Slater, Yarpha, Orphir	Stot	-	-
+1952	W. H. Harvey, Quoydandy, St. Ola	-	-	-
+1953	Mr J. Slater, Yarpha, Orphir	Black stot	-	-
+1954	W. Ritch, Kierfiold, Sandwick	-	-	-
+1955	D. Work, Ness, Shapinsay	-	-	-
+1956	M. C. Wood & Sons, Garson, Sandwick	-	-	-
+1957	M. C. Wood & Sons, Garson, Sandwick	-	-	-
+1958	R. Johnston, Hewan, Shapinsay	Stot	-	-
+1959	R. Johnston, Hewan, Shapinsay	Stot	-	Supreme champion at 1959 Shapinsay Show.
+1960	A. A. Learmonth, Howe, Shapinsay	Stot	-	-
+1961	A. A. Learmonth, Howe, Shapinsay	Stot	-	-
+1962	W. Gorn, Flaws, Holm	Stot	-	Sold to Mr D. G. Spence for £150 at sale on Monday following the show.
+1963	R. Johnston, Hewan, Shapinsay	-	-	-
+1964	A. A. Learmonth, Howe, Shapinsay	2yo black polled cross stot	-	Sold at Kirkwall Auction Mart for £231 to Mr D. G. Spence, Royal Hotel, Kirkwall; supreme champion 1964.
+1965	D. Work, Ness, Shapinsay	Roan stot	-	-
+1966	A. A. Learmonth, Howe, Shapinsay	18mo stot	-	By Pete of Durran.
+1967	A. A. Learmonth, Howe, Shapinsay	2yo stot	-	-
+1968	?
+1969	D. Work, Ness, Shapinsay	2 teeth cross stot	-	By Jewra Eric of Buchaam
+1970	A. A. Learmonth, Howe, Shapinsay	-	-	-
+1971	D. Work, Ness, Shapinsay	-	-	-
+1972	A. A. Learmonth, Howe, Shapinsay	2yo stot	-	By Black Boris of Wittington; not supreme champion.
+1973	A. A. Learmonth, Howe, Shapinsay	-	-	-
+1974	A. A. Learmonth, Howe, Shapinsay	-	-	-
+1975	A. A. Learmonth, Howe, Shapinsay	-	-	-
+1976	J. S. Baillie, Sebay, Tankerness	2yo CHxHF heifer	-	-
+1977	J. S. Baillie, Sebay, Tankerness	CHx heifer	-	By Milk Marketing Board AI bull Sujet, out of AAxHF cow.
+1978	W. Dunnet, Cletts, South Ronaldsay	HFx 2 teeth stot	-	Supreme champion at 1978 'Hope show.
+1979	J. W. Hepburn, Burnside, Tankerness	17mo CHx stot*	-	By Kernowe Festival, out of homebred cow; sire cost £10,000.
+1980	Muir & Sons, Gorn, Shapinsay	15mo heifer	-	By Tavey Monte Carlo, out of SHx cow; Muir & Sons first time at County Show; sold to the judge, Mr J. S. Watson, Balhousie, Carnoustie, Angus for £600 at mart sale on Monday, weighed 450kg.
+1981	D. Work & Son, Ness, Shapinsay	17mo CHx stot	-	By CH bull Tam's Minstrel.
+1982	D. Work, Ness, Shapinsay	17mo CHx stot	Raymond	Bred by Mr Flaws, Nisthouse, Evie; bought at October calf sale in Kirkwall.
+1983	D. Work, Ness, Shapinsay	17mo black x stot*	Black Magic	-
+1984	D. Work & Son, Ness, Shapinsay	1yo pure AA stot	-	By Pernod of Classlochie, out of pure unregistered AA cow.
+1985	Phyllis M. Hepburn, Burnside, Tankerness	CHxAA heifer	-	By CH bull Scottish Milord, out of AA cow.
+1986	John Hepburn, Burnside, Tankerness	-	-	-
+1987	G. T. & S. Coghill, Muce, Birsay	-	-	-
+1988	Phyllis Hepburn, Messigate, Tankerness	16mo LMxAA stot	-	By LM bull Tanhylnn So Good, out of AA cow Barbara of Nowlott.
+1989	S. &. J. D. Robertson, Saverock, St. Ola	-	-	-
+1990	G. T. & S. Coghill, Muce, Birsay	-	-	-
+1991	S. & J. D. Robertson, Saverock, St. Ola	-	-	-
+1992	W. G. Kirkpatrick & Sons, Vestrafiold, Sandwick	LMx stot	-	By Normande Viking.
+1993	J. Thomson, Garth, South Ronaldsay	16mo CHx heifer	Caledonia	By CH bull Allanfauld Vagabond, out of LMx cow; supreme champion in 1993 and at 1993 'Hope Show.
+1994	Muir & Sons, Gorn, Shapinsay	-	-	-
+1995	T. & J. Leslie, Quoymorhouse, Shapinsay	-	-	-
+1996	J. A. Scott & Co., Howe, Harray	17mo CHx heifer*	-	By CH bull Seawell Goutte, out of homebred LM cow.
+1997	Muir & Sons, Gorn, Shapinsay	-	-	-
+1998	T. & J. Leslie, Quoymorhouse, Shapinsay	17mo heifer	-	By Hartside Jacko, out of LMx cow.
+1999	Garson Farms, Sandwick	Calfs teeth stot	Beckham	By Bailea Justice, out of LMxAA cow.
+2000	G. T. & S. Coghill, Muce, Birsay	16mo LMx heifer*	-	By Middledale Jeeves, out of homebred CH cow.
+2001	No Show due to Foot & Mouth outbreak.
+2002	T. & J. Leslie, Quoymorhouse, Shapinsay	LMx calfs teeth heifer	-	By Shire Lanzarote.
+2003	Cogle & Co., Newbigging, South Ronaldsay	cross bred heifer	-	-
+2004	Muir & Sons, Gorn, Shapinsay	-	-	-

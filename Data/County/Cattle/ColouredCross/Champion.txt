@@ -1,36 +1,35 @@
-County Show Coloured Cross Champions 1970-present
-Year	Exhibitor					Champion			Name				Notes
-1970	D. Swannie, Midhouse, South Ronaldsay		8yo cow				-				By Drummer of Fordhouse; roan; champion at 1970 'Hope show.
-1971	E. Flett, Kingshouse, Harray			SHx stot*			-				By SH bull, out of homebred cross cow.
-1972	D. Swannie, Midhouse, South Ronaldsay		-				-				-
-1973	V. R. Slater, Breck, Orphir			-				-				-
-1974	D. Swannie, Midhouse, South Ronaldsay		12yo cow			-				Coloured cross champion for 4th time.
-1975	D. Swannie, Midhouse, South Ronaldsay		13yo cow			-				same animal as last year.
-1976	J. W. Foubister, Hilton, Shapinsay		heifer calf			-				By CHxSH bull; sold at Kirkwall Auction Mart on Monday following show for £395 to Mr Sutherland, Boroughstone Mains, Caithness.
-1977	J. S. Baillie, Sebay, Tankerness		-				-				-
-1978	R. & J. Johnston, Hewan, Shapinsay		CHx stot			-				-
-1979	J. W. Hepburn, Burnside, Tankerness		17mo CHx stot*			-				By CH bull Kernowe Festival, out of homebred cross cow; sire fetched £10,000 at auction.
-1980	G. R. Coghill & Son, Newbigging, Birsay		6yo cow in milk*		-				By Cacao, out of SHx cow.
-1981	D. Work & Son, Ness, Shapinsay			17mo CHx stot			-				By CH bull Tam's Minstrel.
-1982	D. Work & Son, Ness, Shapinsay			17mo CHx stot			Raymond				Bred by Mr Flaws, Nisthouse, Evie; bought at calf sale in October.
-1983	J. W. Hepburn, Burnside, Tankerness		CHx heifer calf*		-				By CH bull Scottish Milord, out of pure homebred AA cow.
-1984	W. R. Baillie, Biggings, Toab			8yo CHx cow			Snowflake			By Kairsknowe Festival, out of CH cow Kathleen.
-1985	W. R. Baillie, Biggings, Toab			3yo cow*			-				By Scottish Mercury, out of homebred cow.
-1986	W. R. Baillie, Biggings, Toab			4yo cow*			Lindsay				By Scottish Mercury, out of homebred cross cow Kathleen; it is not clear if this is the same animal as last year.
-1987	P. Hepburn, Messigate, Tankerness		CHx stot			Ripper Bruce			By Theodopulous, out of black cross cow; bred by Michael Hadlow, Doehouse, Sandwick.
-1988	D. Work & Son, Ness, Shapinsay			-				-				-
-1989	S. & J. D. Robertson, Saverock, St. Ola		-				-				-
-1990		?
-1991	Muir & Sons, Gorn, Shapinsay			8mo LMx stot			Bond				By LM bull Shatton Pedro, out of CHxLM cow.
-1992	S. & J. D. Robertson, Saverock, St. Ola		8mo LMx heifer calf		Roxanne				By LM bull Homebyers Escort, out of LMxAA homebred cow; sire purchased at Perth February 1991.
-1993	J. Thomson, Garth, South Ronaldsay		16mo CHx heifer			Caledonia			By CH bull Allanfauld Vagabond, out of LMx cow.
-1994	R. Cursiter & Son, Laga, Evie			9mo LMx heifer			Laga's Gem			By LM bull Crownhead Gladstone, out of 3/4 LM heifer; dam bought from Muir & Sons, Gorn, Shapinsay.
-1995	W. R. Baillie, Biggings, Toab			11mo LMx stot			Red Alert			By LM bull Gringley Cavalier, out of LMxAA cow.
-1996	J. A. Scott & Co, Howe, Harray			17mo CHx heifer*		-				By CH bull Seawell Goutte, out of homebred LMx cow.
-1997	R. J. Taylor, Brencherhouse, Birsay		calf's teeth heifer		Tinkerbell			By Newfoulds Vagabond, out of 3/4 LM cow.
-1998	Cogle & Co, Newbigging, South Ronaldsay		4mo LMxCH stot			-				By Hools Lumu, out of CHx cow; supreme champion at 1998 'Hope show.
-1999	Cogle & Co, Newbigging, South Ronaldsay		4mo LMx stot*			Magnum				By LM bull Starkley Magnum, out of homebred CHx cow.
-2000	R. Cursiter & Son, Laga, Evie			20mo LMx heifer*		Laga's Thunderthighs		By LM bull Crownhead Gladstone, out of LMxHFxFR cow; supreme champion at 2000 Dounby Show.
-2001		No Show due to Foot & Mouth outbreak.
-2002	L. Muir, Midhouse, Harray			8mo LMx heifer			Harray Topper			By LM bull Tanat Otter, out of homebred LMx heifer.
-2003	L. Muir, Midhouse, Harray			January 2002 LMx heifer*	Steph				By LM bull Tanat Otter, out of LMx cow; supreme champion at 2003 Dounby Show.
+Year	Exhibitor	Champion	Name	Notes
+1970	D. Swannie, Midhouse, South Ronaldsay	8yo cow	-	By Drummer of Fordhouse; roan; champion at 1970 'Hope show.
+1971	E. Flett, Kingshouse, Harray	SHx stot*	-	By SH bull, out of homebred cross cow.
+1972	D. Swannie, Midhouse, South Ronaldsay	-	-	-
+1973	V. R. Slater, Breck, Orphir	-	-	-
+1974	D. Swannie, Midhouse, South Ronaldsay	12yo cow	-	Coloured cross champion for 4th time.
+1975	D. Swannie, Midhouse, South Ronaldsay	13yo cow	-	same animal as last year.
+1976	J. W. Foubister, Hilton, Shapinsay	heifer calf	-	By CHxSH bull; sold at Kirkwall Auction Mart on Monday following show for £395 to Mr Sutherland, Boroughstone Mains, Caithness.
+1977	J. S. Baillie, Sebay, Tankerness	-	-	-
+1978	R. & J. Johnston, Hewan, Shapinsay	CHx stot	-	-
+1979	J. W. Hepburn, Burnside, Tankerness	17mo CHx stot*	-	By CH bull Kernowe Festival, out of homebred cross cow; sire fetched £10,000 at auction.
+1980	G. R. Coghill & Son, Newbigging, Birsay	6yo cow in milk*	-	By Cacao, out of SHx cow.
+1981	D. Work & Son, Ness, Shapinsay	17mo CHx stot	-	By CH bull Tam's Minstrel.
+1982	D. Work & Son, Ness, Shapinsay	17mo CHx stot	Raymond	Bred by Mr Flaws, Nisthouse, Evie; bought at calf sale in October.
+1983	J. W. Hepburn, Burnside, Tankerness	CHx heifer calf*	-	By CH bull Scottish Milord, out of pure homebred AA cow.
+1984	W. R. Baillie, Biggings, Toab	8yo CHx cow	Snowflake	By Kairsknowe Festival, out of CH cow Kathleen.
+1985	W. R. Baillie, Biggings, Toab	3yo cow*	-	By Scottish Mercury, out of homebred cow.
+1986	W. R. Baillie, Biggings, Toab	4yo cow*	Lindsay	By Scottish Mercury, out of homebred cross cow Kathleen; it is not clear if this is the same animal as last year.
+1987	P. Hepburn, Messigate, Tankerness	CHx stot	Ripper Bruce	By Theodopulous, out of black cross cow; bred by Michael Hadlow, Doehouse, Sandwick.
+1988	D. Work & Son, Ness, Shapinsay	-	-	-
+1989	S. & J. D. Robertson, Saverock, St. Ola	-	-	-
+1990	?
+1991	Muir & Sons, Gorn, Shapinsay	8mo LMx stot	Bond	By LM bull Shatton Pedro, out of CHxLM cow.
+1992	S. & J. D. Robertson, Saverock, St. Ola	8mo LMx heifer calf	Roxanne	By LM bull Homebyers Escort, out of LMxAA homebred cow; sire purchased at Perth February 1991.
+1993	J. Thomson, Garth, South Ronaldsay	16mo CHx heifer	Caledonia	By CH bull Allanfauld Vagabond, out of LMx cow.
+1994	R. Cursiter & Son, Laga, Evie	9mo LMx heifer	Laga's Gem	By LM bull Crownhead Gladstone, out of 3/4 LM heifer; dam bought from Muir & Sons, Gorn, Shapinsay.
+1995	W. R. Baillie, Biggings, Toab	11mo LMx stot	Red Alert	By LM bull Gringley Cavalier, out of LMxAA cow.
+1996	J. A. Scott & Co, Howe, Harray	17mo CHx heifer*	-	By CH bull Seawell Goutte, out of homebred LMx cow.
+1997	R. J. Taylor, Brencherhouse, Birsay	calf's teeth heifer	Tinkerbell	By Newfoulds Vagabond, out of 3/4 LM cow.
+1998	Cogle & Co, Newbigging, South Ronaldsay	4mo LMxCH stot	-	By Hools Lumu, out of CHx cow; supreme champion at 1998 'Hope show.
+1999	Cogle & Co, Newbigging, South Ronaldsay	4mo LMx stot*	Magnum	By LM bull Starkley Magnum, out of homebred CHx cow.
+2000	R. Cursiter & Son, Laga, Evie	20mo LMx heifer*	Laga's Thunderthighs	By LM bull Crownhead Gladstone, out of LMxHFxFR cow; supreme champion at 2000 Dounby Show.
+2001	No Show due to Foot & Mouth outbreak.
+2002	L. Muir, Midhouse, Harray	8mo LMx heifer	Harray Topper	By LM bull Tanat Otter, out of homebred LMx heifer.
+2003	L. Muir, Midhouse, Harray	January 2002 LMx heifer*	Steph	By LM bull Tanat Otter, out of LMx cow; supreme champion at 2003 Dounby Show.
