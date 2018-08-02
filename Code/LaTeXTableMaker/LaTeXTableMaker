@@ -1,0 +1,70 @@
+# Adapted by Robert Scarth on 24th and 27th August 2003
+# From HTML Table Maker
+
+# Note that this does not create a full LaTeX file, only the code for the actual table
+# This can then be incorporated into your LaTeX file using an \include or \input command
+# The code actually produces a ***longtable*** so you need to include \usepackage{longtable}
+# in your preamble
+# It is also optimized to produce tables of Orkney Show Results.
+
+open(PARAMETERS,"LaTeXTableMakerParameters.txt");		# open file containing details of the input and output
+while($SOURCE=<PARAMETERS>) {				# read in path of file containing source data 
+	chop($SOURCE);					# remove new line char
+	$output=<PARAMETERS>;				# read in path of file containing output
+	chop($output);					# remove new line char
+
+	open(TABLEOUT,">$output");			# create LaTeX file for output table
+	open SOURCE or die "Can't find $SOURCE\n";	# open the text file containing the table data
+	$title = <SOURCE>;				# read in the first line, containing the title
+	chop($title);					# remove new line char
+	$headings = <SOURCE>;				# read in the second line, containing the headings
+	chop($headings);				# remove new line char
+	@headings = split /\t+/, $headings;		# split the headings and put them in an array
+	
+	# Here we count the number of columns, this is so that we know not to put
+	# a "&" after the item in the last row
+
+	$number_of_columns = 0;
+	foreach $heading (@headings) {
+		$number_of_columns++;
+	}
+	$number_of_columns--;				# array indexing starts at 0
+
+	# now we start creating the LaTeX code
+		print TABLEOUT "\\begin{longtable}{|c|p{5.2cm}|p{3cm}|p{3cm}|p{8cm}|}\n";
+	# end of initial phase of creating LaTeX code
+	
+	# now we build the LaTeX code for the table headings
+		print TABLEOUT "\\hline\n";
+		for($i = 0; $i < $number_of_columns; $i++)	{
+			print TABLEOUT "\t\\textbf{$headings[$i]} &\n";
+		}
+		print TABLEOUT "\t\\textbf{$headings[$number_of_columns]} \n";		# no "&" !!
+		print TABLEOUT "\t\\tabularnewline\n";
+		print TABLEOUT "\\hline\n";
+		print TABLEOUT "\\endhead\n";
+	# end of section to build LaTeX code for table headings
+	
+	# main section reading in each data row, and creating the LaTeX code
+		while ($datarow = <SOURCE>) {
+			chop($datarow);
+			$datarow =~ s/&/\\&/g;			# place the LaTeX escape char ("\") in front of all "&"'s
+			@dataitems = split /\t+/, $datarow;
+			print TABLEOUT "\t\$$dataitems[0]\$ &\n";
+			for($i=1;$i<$number_of_columns;$i++)	{
+				print TABLEOUT "\t\\raggedright $dataitems[$i] &\n";
+			}
+			print TABLEOUT "\t\\raggedright $dataitems[$number_of_columns]\n";	# no "&" !!
+			print TABLEOUT "\t\\tabularnewline\n";
+			print TABLEOUT "\\hline\n";
+		}
+	# end of main section 
+
+	# finally we complete the LaTeX code
+		print TABLEOUT "\\end{longtable}\n";
+
+	close(SOURCE);
+	close(TABLEOUT);
+}
+
+close(PARAMETERS);

@@ -1,0 +1,25 @@
+#!/usr/bin/perl
+
+# This reads in a text file, and replaces multiple runs of tabs with a single tab
+# The file can then be read into R using the read_tsv() function with the correct columns
+
+open(PARAMETERS,"FilePaths");				# open file containing details of the input and output
+while($SOURCE=<PARAMETERS>) {				# read in path of file containing source data 
+	chop($SOURCE);					# remove new line char
+	$output=<PARAMETERS>;				# read in path of file containing output
+	chop($output);					# remove new line char
+
+	open(TABLEOUT,">$output");			# create file for output
+	open SOURCE or die "Can't find $SOURCE\n";	# open the text file containing the input data
+
+	# Now loop through each line of the source data
+	# stripping instances of multiple tabs and replacing them with a single tab
+	# then write the altered line out to the output file 
+
+	while ($datarow = <SOURCE>) {
+		chop($datarow);
+		$datarow =~ s/\t+/\t/gs;	# replace all runs of > 1 tab with a single tab
+		print TABLEOUT "$datarow\n";
+	}
+}
+
