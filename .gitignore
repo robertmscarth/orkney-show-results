@@ -1,5 +1,6 @@
 # ignore the following directories
 Code/Tests/
+Data/Generated/
 old/
 
 # ignore files with the following extensions as they are automatically created by TeX
@@ -13,4 +14,6 @@ old/
 *.pdf
 *.gz
 *.toc
+*.Rhistory
+
 
