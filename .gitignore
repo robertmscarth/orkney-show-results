@@ -1,5 +1,8 @@
 # ignore the following directories
 Code/Tests/
+Code/LaTeXTableMaker/local/
+Code/StripTabs/local/
+Code/StripTeX/local/
 Data/Generated/
 old/
 
