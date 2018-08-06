@@ -1,0 +1,107 @@
+#!/usr/bin/perl
+
+# This reads in a text file, and removes the TeX markup used to create a longtable
+# The resultant file will be a tab separated text file that can be read into R using read_tsv()
+
+open(PARAMETERS,"FilePaths");				# open file containing details of the input and output
+while($SOURCE=<PARAMETERS>) {				# read in path of file containing source data 
+	chop($SOURCE);					# remove new line char
+	$output=<PARAMETERS>;				# read in path of file containing output
+	chop($output);					# remove new line char
+	
+	# create name for temp output used to store result of first pass through
+	$outputTEMP = $output;
+	$outputTEMP =~ s/\.txt/TEMP\.txt/g;
+	
+	open(TABLEOUT,">$outputTEMP");			# create file for intermediate output
+	binmode(TABLEOUT,":UTF-8");			# set output file to have UTF-8 encoding
+	open SOURCE or die "Can't find $SOURCE\n";	# open the text file containing the input data
+
+	# Now loop through each line of the source data
+	# stripping the TeX markup and then writing the altered line out to the output file
+	# note we leave \tabularnewline in as we use it in the second pass through below
+
+	while ($datarow = <SOURCE>) {
+		chop($datarow);
+		# remove the following TeX commands:
+		# \begin{*}{*} \hline \endhead \raggedright \sindex[*]{*} \cline{*} \rule{*}{*} \end{*}
+		$datarow =~ s/\\begin\{.+\}\{.+\}//g;	# remove \begin{*}{*}
+		$datarow =~ s/\\hline//g;		# remove \hline
+		$datarow =~ s/\\endhead//g;		# remove \endhead
+		$datarow =~ s/\\raggedright//g;		# remove \raggedright
+		$datarow =~ s/\\sindex\[.+\]\{.+\}//g;	# remove \sindex[*]{*}
+		$datarow =~ s/\\cline\{.+\}//g;		# remove \cline{*}
+		$datarow =~ s/\\rule\{.+\}\{.+\}//g;	# remove \rule{*}{*}
+		$datarow =~ s/\\end\{.+\}//g;		# remove \end{*}
+
+		# remove \textbf{Text} \multirow{*}{*}{Text} \multicolumn{*}{*}{Text} but keep "Text"
+		# first remove the TeX commands \textbf \multirow and \multicolumn
+		$datarow =~ s/\\textbf//g;			# remove \textbf
+		$datarow =~ s/\\multirow\{.+\}\{.+\}\{/\{/g;	# remove \multirow
+		$datarow =~ s/\\multicolumn\{.+\}\{.+\}\{/\{/g;	# remove \multicolumn
+		$datarow =~ s/\\frac//g;			# remove \frac
+		# Next remove { and }
+		$datarow =~ s/\{//g;			# remove {
+		$datarow =~ s/\}//g;			# remove }
+
+		# remove all instances of $
+		$datarow =~ s/\$//g;
+
+		# replace "\&" with "&" - i.e. remove the escape character "\" used by TeX before an ampersand
+		$datarow =~ s/\\&/&/;
+
+		# remove & (and the space immediately before it) from end of line 
+		$datarow =~ s/\s\&$//;
+
+		# trim any spaces at start and end only of a line
+		$datarow =~ s/^\s+//;
+		$datarow =~ s/\s+$//;
+
+		# output the modified line unless it is empty
+		unless(!$datarow){
+			print TABLEOUT "$datarow\n";
+		}
+	}
+
+	# close the source and the output files
+	close(SOURCE);
+	close(TABLEOUT);
+
+	# Now make a second pass through the processed file, combining rows into a single row
+	# We read in rows until we get to one that does not end in a "&"
+	# We then combine all the rows read in in that batch into a single row separated by tabs, not "&"
+
+	open(FINALTABLEOUT,">$output");			# create file for final output
+	binmode(FINALTABLEOUT,":UTF-8");		# set output file to have UTF-8 encoding
+	open outputTEMP or die "Can't find $outputTEMP\n";	# open the text file containing the input data
+
+	while ($inputdatarow = <outputTEMP>) {
+		chop($inputdatarow);
+		
+		$outputdatarow = "";
+		# read in rows until we get to one that is \tabularnewline
+		while ($inputdatarow !~ /^\\tabularnewline$/){
+			# add to end of output separated by a tab
+			$outputdatarow = "$outputdatarow$inputdatarow\t";
+			# read in the next row
+			$inputdatarow = <outputTEMP>;
+			chop($inputdatarow);
+		}
+		# remove the final tab at the end
+		$outputdatarow =~ s/\t$//;
+
+		# output the combined row to the file
+		print FINALTABLEOUT "$outputdatarow\n";
+	}
+
+	# close the source and the output files
+	close(FINALTABLEOUT);
+	close(outputTEMP);
+
+	# delete the intermediate file $outputTEMP
+	unlink ($outputTEMP);
+}
+
+# close the file containing the file paths
+close(PARAMETERS);
+
