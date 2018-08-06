@@ -24,7 +24,7 @@ while($SOURCE=<PARAMETERS>) {				# read in path of file containing source data
 	while ($datarow = <SOURCE>) {
 		chop($datarow);
 		# remove the following TeX commands:
-		# \begin{*}{*} \hline \endhead \raggedright \sindex[*]{*} \cline{*} \rule{*}{*} \end{*}
+		# \begin{*}{*} \hline \endhead \raggedright \sindex[*]{*} \cline{*} \rule{*}{*} \end{*} \pagebreak
 		$datarow =~ s/\\begin\{.+\}\{.+\}//g;	# remove \begin{*}{*}
 		$datarow =~ s/\\hline//g;		# remove \hline
 		$datarow =~ s/\\endhead//g;		# remove \endhead
@@ -33,6 +33,7 @@ while($SOURCE=<PARAMETERS>) {				# read in path of file containing source data
 		$datarow =~ s/\\cline\{.+\}//g;		# remove \cline{*}
 		$datarow =~ s/\\rule\{.+\}\{.+\}//g;	# remove \rule{*}{*}
 		$datarow =~ s/\\end\{.+\}//g;		# remove \end{*}
+		$datarow =~ s/\\pagebreak//g;		# remove \pagebreak
 
 		# remove \textbf{Text} \multirow{*}{*}{Text} \multicolumn{*}{*}{Text} but keep "Text"
 		# first remove the TeX commands \textbf \multirow and \multicolumn
