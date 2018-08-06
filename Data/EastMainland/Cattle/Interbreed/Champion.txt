@@ -25,8 +25,8 @@ Year	Exhibitor	Champion	Name	Notes
 1955	W. Harvey, Quoydandy, St Ola	8yo black cross polled cow	-	-
 1956	J. Baillie, Sebay, Tankerness	AA heifer*	Elizabeth III of Sebay	Out of Lady Irona of Auchenerieve.
 1957	J. Baillie, Sebay, Tankerness	8yo AA cow	Lady Irona of Auchenerieve	-
-1958	J. Baillie, Sebay, Tankerness	9yo AA cow	Lady Irona of Auchenerieve	
-1959	J. Baillie, Sebay, Tankerness	10yo AA cow	Lady Irona of Auchenerieve	
+1958	J. Baillie, Sebay, Tankerness	9yo AA cow	Lady Irona of Auchenerieve
+1959	J. Baillie, Sebay, Tankerness	10yo AA cow	Lady Irona of Auchenerieve
 1960	J. S. Baillie, Sebay, Tankerness	3yo black cross polled cow*	-	Bred by Mr Baillie at Snelsetter.
 1961	Mr W. G. Smith, Bu, Holm	4yo AA cow in calf	Laura of Ballintomb	By Pinnochio of Gedrew; bought as an yearling at the Ballintomb sale.
 1962	A. J. Eunson, Lower Gritley, Deerness	7yo blue-grey cow	-	By a black bull, out of a white SH cow.
@@ -38,18 +38,18 @@ Year	Exhibitor	Champion	Name	Notes
 1968	J. S. Baillie, Sebay, Tankerness	4yo AA cow in calf	Beva Miss Ballandalloch	By Stype Phantom.
 1969	J. S. Baillie, Sebay, Tankerness	6yo AA cow in calf	Beva Miss Ballandalloch
 1970	J. S. Baillie, Sebay, Tankerness	7yo AA cow	Oykel Effective	By Bosun of Haymount.
-1971	J. S. Baillie, Sebay, Tankerness	8yo AA cow	Oykel Effective	By Bosun of Haymount.
+1971	J. S. Baillie, Sebay, Tankerness	8yo AA cow	Oykel Effective
 1972	J. S. Baillie, Sebay, Tankerness	8yo AA bull	Stype Ptolemy	By Newhouse Jewdo Eric, out of Stype Pride 29th; bought at Perth in Feb 1970; 1st in class at Perth.
 1973	J. S. Baillie, Sebay, Tankerness	7yo blue grey cow in calf	-	By Wester Lovat Eamono; reserve champion last year when shown by Mr W. Voy, Milldam, Tankerness.
 1974	J. S. Baillie, Sebay, Tankerness	3yo AA bull*	Elevator of Sebay	By Ethoram of Idvies, out of Exasperaba of Sebay.
 1975	J. S. Baillie, Sebay, Tankerness	5yo AA cow in calf	Earmonay of Eastford	By Juanenar of Dounside; bought as a heifer in calf
 1976	J. S. Baillie, Sebay, Tankerness	2yo AA bull*	Amos of Sebay	By Echo of Unigar, out of Annuity of Benethill.
 1977	A. Bews, Muckle Crofty, Tankerness	7yo black cross cow	-	-
-1978	J. Gaudie & Son, Craebreck, Holm	5yo HF bull	Wilcot I Bernard	By Crickley I Compensation; bought at Edinburgh sales 1977 for 1800gns; previously champion bull at Kirriemuir show, and 1st at Fife show. 
+1978	J. Gaudie & Son, Craebreck, Holm	5yo HF bull	Wilcot I Bernard	By Crickley I Compensation; bought at Edinburgh sales 1977 for 1800gns; previously champion bull at Kirriemuir show, and 1st at Fife show.
 1979	J. S. Baillie, Sebay, Tankerness	7yo AA cow in milk	Ethlinkage of Eastfield	By Gentle Junior of Sturton; bought at Perth; female champion at Perth.
 1980	W. R. Baillie, Biggings, Toab	6yo CH bull	Wincote Jasper	By Bent Carabineer; bought at Northampton for 950gns.
-1981	W. R. Baillie, Biggings, Toab	7yo CH bull	Wincote Jasper	By Bent Carabineer; bought at Northampton for 950gns.
-1982	W. R. Baillie, Biggings, Toab	8yo CH bull	Wincote Jasper	By Bent Carabineer; bought at Northampton for 950gns.
+1981	W. R. Baillie, Biggings, Toab	7yo CH bull	Wincote Jasper
+1982	W. R. Baillie, Biggings, Toab	8yo CH bull	Wincote Jasper
 1983	K. & M. Eunson, North Keigar, Deerness	6yo HF bull	Knoxhill Talisman	By Horsetin I Guiseppe; bought at Aberdeen sale for 1000gns when 18mo.
 1984	W. R. Baillie, Biggings, Toab	CHx stot calf	-	By Wincote Jasper, out of blue-grey cow.
 1985	W. R. Baillie, Biggings, Toab	9yo CHx cow	Snowflake	By Kersknowe Festival, out of CH dam Kathleen.
@@ -58,7 +58,7 @@ Year	Exhibitor	Champion	Name	Notes
 1988	S. & J. D. Robertson, Saverock, St. Ola	BBx heifer	-	By BB bull, out of SHxAA cow; bought at Stromness fat stock sale in 1987; champion calf at Stromness fat stock sale in 1987; bred by D. Firth, Buan, Stromness.
 1989	J. S. Baillie, Sebay, Tankerness	7yo AA cow*	Permain 10th of Sebay	By Nightingale Earl Marshall, out of Permain 9th of Sebay.
 1990	J. M. Lennie & Co, Nearhouse, Tankerness	6yo CH cow in milk	Little Gill Verity	By Tottenhall Hubolt, out of Holehouse Rebecca.
-1991	J. M. Lennie & Co, Nearhouse, Tankerness	7yo CH cow	Balthayock Violet	Bought as heifer in calf at Perth in 1986. 
+1991	J. M. Lennie & Co, Nearhouse, Tankerness	7yo CH cow	Balthayock Violet	Bought as heifer in calf at Perth in 1986.
 1992	S. & J. D. Robertson, Saverock, St. Ola	7mo LMx heifer calf*	-	By Homebyers Escort, out of homebred LMxAA cow; sire purchased at Perth, Feb 1991.
 1993	S. Harcus, Quanterness, St. Ola	4yo AA bull	Heathlands Buzz Marty	By Windover Justifier; bought at Perth Feb 1991; champion at Perth; Norfolk bred.
 1994	W. R. Baillie, Biggings, Toab	6yo CH cow*	Ballieston Diana	By Bowerhouse Topper, out of Ballieston Vida.
@@ -71,4 +71,9 @@ Year	Exhibitor	Champion	Name	Notes
 2001	No show due to Foot & Mouth outbreak.
 2002	P. Hepburn, Messigate, Tankerness	5yo AA bull	Ebony of Burnside	Voted best animal in showyard.
 2003	J. W. Hepburn, Burnside, Tankerness	2yo AA heifer in calf*	Newlot Esmerelda	By Galacantry Predator, out of Esmerelda 6th of Newlot.
-
+2004	W. R. Baillie, Biggins, Toab	17mo CH heifer*	Ballieston Topsy	By Moyness President, out of Baillieston Maiden
+2005	W. R. Baillie, Biggins, Toab	14mo CH heifer*	Ballieston Vera	By Moyness President, out of Baillieston Ola
+2006	W. R. Baillie, Biggins, Toab	3yo CH cow-in-milk*	Ballieston Topsy	By Moyness President, out of Baillieston Maiden
+2007	No Show due to Foot & Mouth outbreak.
+2008
+2009	J. S. Baillie & Co., Sebay, Tankerness	2yo AA heifer*	Sebay Electra F478	By Netherton Fabulous Cruz Y300, out of Galcantray Electra D697

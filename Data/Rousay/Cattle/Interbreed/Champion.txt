@@ -1,6 +1,6 @@
 Year	Exhibitor	Champion	Name	Notes
 1936	Can't find report.
-1937	John Linklater	Cross cow	-	-	
+1937	John Linklater	Cross cow	-	-
 1938	Mrs Gibson, Avelshay	?	-	Champion either a 3yo polled cow or a 1yo polled stot.
 1939	H. Mainland	Blue cross cow	-	-
 1940	No show due to war.
@@ -15,7 +15,7 @@ Year	Exhibitor	Champion	Name	Notes
 1949	R. Johnston, Trumland	Polled cow	-	-
 1950	R. Johnston, Trumland	2yo heifer	-	-
 1951	Messrs. Inkster Bros, Woo	2yo stot	-	Same animal champion in both years.
-1952	Messrs. Inkster Bros, Woo	3yo stot	-	
+1952	Messrs. Inkster Bros, Woo	3yo stot	-
 1953	R. Johnston, Trumland	1yo red polled heifer	-	-
 1954	R. Johnston, Trumland	Stot	-	-
 1955	Messrs. Inkster Bros, Woo	AA cow	-	-

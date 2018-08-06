@@ -27,11 +27,11 @@ Year	Exhibitor	Champion	Name	Notes
 1961	Messrs M. C. Wood & Sons, Garson, Sandwick	8yo black polled cross cow in calf	-	Supreme champion in 1961.
 1962	A. A. Learmonth, Howe, Shapinsay	5yo black polled cow*	-	Supreme champion at Shapinsay show 1960-1962.
 1963	T. Dearness, Southfield, Burray	4yo AA cow	Butora of Kincardine	By Bessort of Kincardine, out of Buto if Kincardine; bought at Kincardine dispersal sale in 1961; supreme champion in 1963 and at 1962 & 1963 'Hope Show.
-1964	T. Dearness, Southfield, Burray	4yo AA cow	Butora of Kincardine	
+1964	T. Dearness, Southfield, Burray	4yo AA cow	Butora of Kincardine
 1965	R. R. Johnston, Trumland Farm, Rousay	2yo AA heifer	Corbairdy Even Crescent	By Earl of Cairnfield; bought at Cobairdy dispersal sale for 270gns; grand dam, Even Girl III, was twice champion at the Royal Highland Show.
 1966	R. R. Johnston, Trumland Farm, Rousay	3yo AA cow	Corbairdy Even Crescent
 1967	J. S. Baillie, Sebay, Tankerness	3yo AA cow in calf	Effective of Oykell	By Boshun of Haymount.
-1968	J. S. Baillie, Sebay, Tankerness	4yo AA cow	Oykell Effective	By Bosun of Haymount.
+1968	J. S. Baillie, Sebay, Tankerness	4yo AA cow	Oykell Effective
 1969	D. Work & Son, Ness, Shapinsay	2yo black polled cross heifer in calf	-	By Jewra Eric of Buchaam.
 1970	D. Swannie, Midhouse, South Ronaldsay	8yo cow	-	By Drummer of Fordhouse; roan; champion at 1970 'Hope show.
 1971	?
@@ -54,7 +54,7 @@ Year	Exhibitor	Champion	Name	Notes
 1988	J. & H. Flett, Boardhouse, Birsay	AAx cow in calf*	-	By AA bull Proud Laddie of Carmains, out of AAx cow.
 1989	J. S. Baillie, Sebay, Tankerness	3yo AA cow	Princess of Broompark	By Ballycaher Noble, out of Princess 6th of Kinermony; bought from Charlie Ross, Broompark, Ross-shire; supreme champion in 1987.
 1990	Messrs Davidson, Skaill, Sandwick	2yo AA heifer in calf	Nicks Delia	By DMM Esoteric, out of Tomil Delia; supreme champion in 1990 & 1991.
-1991	Messrs Davidson, Skaill, Sandwick	3yo AA cow	Nicks Delia	By DMM Esoteric, out of Tomil Delia; supreme champion in 1990 & 1991.
+1991	Messrs Davidson, Skaill, Sandwick	3yo AA cow	Nicks Delia
 1992	Messrs Davidson, Skaill, Sandwick	2yo AA heifer*	Skaill Delia	By Windover Justifier, out of Nicks Delia.
 1993	J. Thomson, Garth, South Ronaldsay	16mo CHx heifer	Caledonia	By CH bull Allanfauld Vagabond, out of LMx cow; supreme champion in 1993 and at 1993 'Hope Show.
 1994	T. & J. Leslie, Quoymorhouse, Shapinsay	14mo LMx heifer*	Little Mo	By LM bull Greenbank Frank, out of homebred LMx cow.
@@ -62,9 +62,10 @@ Year	Exhibitor	Champion	Name	Notes
 1996	Messrs Davidson, Skaill, Sandwick	2yo AA heifer in calf*	Skaill Delia T2	By Rito 2100, out of Skaill Delia O2.
 1997	R. & J. Johnson, Hewan, Shapinsay	7yo cross cow in calf*	-	By Newhouse Banker, out of homebred cross cow; supreme champion in 1997.
 1998	G. T. & S. Coghill, Muce, Birsay	5yo CH cow in milk	New Moan Iris	By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray, in October 1997; supreme champion in 1998 and at 1998 Dounby Show.
-1999	Messrs Davidson, Skaill, Sandwick 	1yo AA heifer*	Skaill Diana	By Edinburgh of The Moss, out of Skaill Diana R4; supreme champion in 1999. 
+1999	Messrs Davidson, Skaill, Sandwick	1yo AA heifer*	Skaill Diana	By Edinburgh of The Moss, out of Skaill Diana R4; supreme champion in 1999.
 2000	Messrs Davidson, Skaill, Sandwick	8yo AA cow in calf*	Skaill Diana P8	By Canadian AI bull MVHF Extra, out of Nicks Delia; supreme champion in 2000.
 2001	No Show due to Foot & Mouth outbreak.
 2002	R. J. Taylor, Brencherhouse, Birsay	November 2001 black LMx heifer*	Taylor's Touch of Class	By AI bull Ronick Hawk, out of homebred BBxLM cow; supreme champion in 2002 and at 2002 Dounby Show.
 2003	John Hepburn, Burnside, Tankerness	2yo AA heifer in calf*	Newlot Esmerelda	By Galacantry Predator, out of Esmerelda 6th of Newlot; supreme champion at 2003 East Mainland Show.
 2004	W. R. Baillie, Biggings, Toab	17mo CH heifer*	Ballieston Topsy	By Moyness President, out of Ballieston Maiden.
+2005	Messrs Davidson, Skaill, Sandwick	2yo AA heifer*	Skaill Diana	By Skaill Express, out of Skaill Diana.

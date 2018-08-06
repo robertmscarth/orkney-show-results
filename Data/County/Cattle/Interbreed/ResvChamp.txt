@@ -20,7 +20,7 @@ Year	Exhibitor	Champion	Name	Notes
 1954	Mr W. Flett, Northbigging, Harray	Cross polled cow	-	-
 1955	Mr James Baillie, Sebay, Tankerness	-	-	-
 1956	Mr James Baillie, Sebay, Tankerness	8yo AA cow	Lady Irona of Auchencreivie	-
-1957	Mr James Baillie, Sebay, Tankerness	9yo AA cow	Lady Irona of Auchencreivie	
+1957	Mr James Baillie, Sebay, Tankerness	9yo AA cow	Lady Irona of Auchencreivie
 1958	J. G. Garrioch, Breckan, Costa, Evie	2yo SH heifer in calf	-	By Calrossie Claymore.
 1959	P. Davidson, Skaill, Sandwick	21mo AA bull	-	Supreme champion at 1959 Dounby Show.
 1960	W. Ritch, Kierfiold, Sandwick	8yo blue-grey cow	-	Previous champion at County show and twice at Dounby show (years not given).
@@ -34,7 +34,7 @@ Year	Exhibitor	Champion	Name	Notes
 1968	D. Work & Son, Ness, Shapinsay	5yo cross polled cow*	-	By A Fordhouse bull; supreme champion at Shapinsay show 1967-1968.
 1969	T. S. Flett, Millhouse, Harray	8yo AA bull*	Jovial Eric of Millhouse	By Black Prince of Greenyards; supreme champion at 1969 Dounby Show.
 1970	M. W. T. Wood, Berridale, South Ronaldsay	7yo SH bull	Erimus Solomon	By a Westdrums bull; bought at Perth in 1965; red.
-1971	E. Flett, Kingshouse, Harrar	Polled SHx stot*	-	By SH bull, out of homebred cross cow; sire bred by Andrew Kerr.
+1971	E. Flett, Kingshouse, Harray	Polled SHx stot*	-	By SH bull, out of homebred cross cow; sire bred by Andrew Kerr.
 1972	T. S. Flett, Millhouse, Harray	3yo AA bull*	Everstrike of Millhouse	-
 1973	J. S. Baillie, Sebay, Tankerness	3yo AA cow	Ermonax of Eastfield	By Juanamax Eric of Douneside.
 1974	J. Traill Thomson, Garson, Stromness	5yo SH bull	Woodhead Diamond	By Denend Golden Miller.
@@ -68,3 +68,10 @@ Year	Exhibitor	Champion	Name	Notes
 2002	R. Gilholm, Hammerbrake, Sanday	8mo LMx heifer	Jubilee Rose	By LM bull Roughly Plover, out of BBx cow.
 2003	Messrs Davidson, Skaill, Sandwick	2yo AA bull*	Skaill Express	By Darling Cruz, out of Skaill Estella.
 2004	Cogle & Co, Newbigging, South Ronaldsay	5mo LMx stot*	Julyan	By LM bull Hools Scott, out of LMxBB cow.
+2005	T. & J. Leslie, Quoymorhouse, Shapinsay	9mo LMx heifer calf	Red Alert	By LM bull Lethendry Stevie, out of LMxBB heifer.
+2006	L. Muir, Midhouse, Harray	21mo LM heifer	Corrigal Vera	By Broadmeadows Cannon, out of Newsham Judy.
+2007	No Show due to Foot & Mouth outbreak.
+2008	J. S. Baillie, Sebay, Tankerness	9mo LMx stot	Black Jack	By LM bull Loosebeare Amazon, out of AAx heifer.
+2009	E. Flett, Hurtiso, Holm	6yo SH bull&	Nearhouse James	By Balmyle Crackle, out of Nearhouse Jill.
+2010	Phyllis M. Hepburn, Messigate, Tankerness	6yo AA cow-in-milk*	Burnside Barbara D160	By Galcantray Predator, out of Barbara 3rd of Burnside. Supreme Champion at 2010 East Mainland Show.
+2011	E. Flett, Hurtiso, Holm	4yo SH bull	Uppermill Bavarian	By Hurtiso Caan, out of Uppermill Buttercup.

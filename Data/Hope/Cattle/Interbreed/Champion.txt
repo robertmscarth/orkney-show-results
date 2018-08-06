@@ -1,24 +1,24 @@
 Year	Exhibitor	Champion	Name	Notes
 1970	D. Swannie, Midhouse, South Ronaldsay	8yo AAx cow in milk	-	By AA bull Drummer of Fordhouse, out of cross cow; bred by Donald Laird formerly of Warebanks, now of Buffalo, USA; reserve champion in 1969; champion cow at 1970 County show; roan cow.
-1971	D. Swannie, Midhouse, South Ronaldsay	9yo AAx cow in milk	-	
-1972	W. Dunnet, Clett, South Ronaldsay	4.5yo SH bull	Masterkey of Skaill	Bred in Caithness; bought at Caithness bull sale.
-1973	See The Orcadian of 23/8/1973.	
+1971	D. Swannie, Midhouse, South Ronaldsay	9yo AAx cow in milk	-
+1972	W. Dunnet, Clett, South Ronaldsay	4.5yo SH bull	Masterkey of Skaill\index	Bred in Caithness; bought at Caithness bull sale.
+1973	See The Orcadian of 23/8/1973.
 1974	John Scott Jnr, Roeberry	7yo black cross polled cow	-	Bought from Burray in early 1974.
 1975	D. Swannie, Midhouse, South Ronaldsay	13yo AAx cow in milk	-	By AA bull Drummer of Fordhouse, out of cross cow; bred by Donald Laird formerly of Warebanks, now of Buffalo, USA; reserve champion in 1969; champion cow at 1970 County show; roan cow.
 1976	C. S. Gorn, Weddell, Burray	3yo AA bull	Newhouse Prince 121st	Bought at Perth 1975 for 900gns.
-1977	C. S. Gorn, Weddell, Burray	4yo AA bull	Newhouse Prince 121st	
+1977	C. S. Gorn, Weddell, Burray	4yo AA bull	Newhouse Prince 121st
 1978	W. Dunnet, Clett, South Ronaldsay	two teeth HFx stot	-	-
 1979	I. Sinclair, Heads	2yo HF bull	Glenwood I Consort	By Swinbank I Jacob; bought at Edinburgh Oct 1978.
 1980	C. S. Gorn, Weddell, Burray	4yo black cross cow*	-	By Newhouse Prince 121st; cross cattle champion at County show in 1981; sire champion in 1976.
-1981	C. S. Gorn, Weddell, Burray	5yo black cross cow*	-	
-1982	C. S. Gorn, Weddell, Burray	6yo black cross cow*	-	
+1981	C. S. Gorn, Weddell, Burray	5yo black cross cow*	-
+1982	C. S. Gorn, Weddell, Burray	6yo black cross cow*	-
 1983	C. S. Gorn, Weddell, Burray	2yo AA bull	Perfect Piper of Westdrum	By Evesund of Dupplin, out of Pridetta of Dupplin; bought at Perth Oct 1982 for 1400gns; at Westdrums sale sire fetched 6000gns, dam 2600gns.
 1984	C. S. Gorn, Weddell, Burray	8yo black cross cow*	-	By Newhouse Prince 121st; cross cattle champion at County show in 1981; sire champion in 1976.
 1985	J. W. S. Wishart, Knockhall	5yo AA bull	Premonize of Greenyards	By Ethealise of Inchmartin, out of Precious Pride of Greenyards; bought at Perth in 1982 for 2600gns.
-1986	J. W. S. Wishart, Knockhall	6yo AA bull	Premonize of Greenyards	
-1987	J. W. S. Wishart, Knockhall	7yo AA bull	Premonize of Greenyards	
 1988	Cogle & Co., Newbigging, South Ronaldsay	9yo cross black polled cow in milk	-	Bought as a calf; reserve champion last year.
 1989	Cogle & Co., Newbigging, South Ronaldsay	17mo CHxAA stot*	-	By CH bull bred by W. R. Baillie, Toab.
+1986	J. W. S. Wishart, Knockhall	6yo AA bull	Premonize of Greenyards
+1987	J. W. S. Wishart, Knockhall	7yo AA bull	Premonize of Greenyards
 1990	Stephen & Co., Sandwick House	6yo cross cow	-	By CHx bull out of SMx cow.
 1991	Stephen & Co., Sandwick House	2.5yo CHx heifer*	-	-
 1992	W. Dunnet, Clett, South Ronaldsay	4yo AA bull	Justin Eric of Newlot	By Kinnaber Mr Steakhouse, out of Jewell Erica of Burnside; bred by J. V. Hepburnm, Burnside
@@ -30,6 +30,12 @@ Year	Exhibitor	Champion	Name	Notes
 1998	Cogle & Co., Newbigging, South Ronaldsay	6mo LMx calf*	Lomu	By LM bull Hools Lomu, out of CHx cow; sire owned by A. Cromarty, Hools.
 1999	Cogle & Co., Newbigging, South Ronaldsay	March 1999 LMx calf	Magnum	By LM bull Starkly Magnum, out of CHx cow; out of same dam as last years champion.
 2000	A. Cromarty, Hools, South Ronaldsay	5yo LM cow	Homebyers Love	By Normande Giant, out of Homebyers Fluff; bought as 2yo bulling heifer from Joh  Logan, Homebyers Farm, Kelso.
-2001	No show due to Foot & Mouth outbreak.	
+2001	No show due to Foot & Mouth outbreak.
 2002	Cogle & Co., Newbigging, South Ronaldsay	Feb 2002 LMx stot	-	By black cross bred bull "with a touch of BB", out of LMx cow.
-2003	A. Cromarty, Hools, South Ronaldsay	6yo LM cow	Newsham Aire	By WalkersIadmire; bought as a calf at foot from Yorkshire 5.5 years ago.
+2003	A. Cromarty, Hools, South Ronaldsay	6yo LM cow	Newsham Aire	By WalkersIadmire; bought as a calf at foot from Yorkshire 512 years ago.
+2004	Cogle & Co., Newbigging, South Ronaldsay	March 2004 LMx stot calf*	Julyan	By Hools Scott, out of home bred cow; full brother of 2002 supreme champion and 2003 County Show supreme champion.
+2005	Andrew Laird, Mossbank, Burray	15mo CHx stot	-	By CH bull Simpson's Gregory, out of AA cow; bought from OLA sale in May 2005; bred by Peter Brockan, Stromness.
+2006	Andrew Laird, Mossbank, Burray	17mo LMx heifer	Honey	By LM AI bull Vagabond; bought at Aberdenn & Northern Marts' Spring Show and Sale in February 2006; bred by the Stewarts of Inverness.
+2007	No Show due to Foot & Mouth outbreak.
+2008	Andrew Laird, Mossbank, Burray&
+2009	Andrew Laird, Mossbank, Burray	17mo LMx stot	Obama	By LM bull, out of BBx cow; bought in February 2009 at Aberdeen spring show and sale from J. Robertson & Co., Pitlochry; bred by D. McBeath \& S. Jessop, Manor Neuk Farm, Stirling.

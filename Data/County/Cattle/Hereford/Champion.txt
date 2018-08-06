@@ -5,9 +5,9 @@ Year	Exhibitor	Champion	Name	Notes
 1973	J. R. Heddle, Westfield, Stromness	3yo	Dunure Obo	By Haven Bogle; bred ar Dunure Mains, Ayrshire; bought at Edinburgh; Hereford champion at 1973 Dounby Show.
 1974	J. Scott, Roeberry, S. Ronaldsay	6yo bull	Beaumont Idris	Bred by Wilson of Cowboys.
 1975	J. R. Heddle, Westfield, Stromness	5yo bull	Dunure Obo	By Haven Bogle; bred ar Dunure Mains, Ayrshire; bought at Edinburgh; Hereford champion at 1973 Dounby Show.
-1976	J. R. Heddle, Westfield, Stromness	6yo bull	Dunure Obo	
+1976	J. R. Heddle, Westfield, Stromness	6yo bull	Dunure Obo
 1977	J. Gaudie & Son, Craebreck, Holm	4yo bull	Wilcot I Bernard	By Crickley I Compensation; bought at Edinburgh in 1977 for 520gns.
-1978	J. Gaudie & Son, Craebreck, Holm	5yo bull	Wilcot I Bernard	
+1978	J. Gaudie & Son, Craebreck, Holm	5yo bull	Wilcot I Bernard
 1979	J. Gaudie & Son, Craebreck, Holm	27mo bull	Pen-y-Parc Maharaja	By B.C. I Majestic; bought at Edinburgh in February 1977.
 1980	M. C. Wood & Co, Pow, Sandwick	7yo bull	Solpoll I Highlight	By B.C. I Juliana.
 1981	J. Gaudie & Son, Craebreck, Holm	8yp bull	Wilcot I Bernard
@@ -21,3 +21,4 @@ Year	Exhibitor	Champion	Name	Notes
 1996	M. & L. J. Girvan, Brance, South Ronaldsay	6yo cow	Panmure Blessing G4	By Luada North Star, out of Panmure Blessing D14.
 2001	No Show due to Foot & Mouth outbreak.
 2003	S. Smith, Lesliedale, St. Ola	-	-	-
+2007	No Show due to Foot & Mouth outbreak.

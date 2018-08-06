@@ -1,25 +1,6 @@
 Year	Exhibitor	Champion	Name	Notes
-1936	?
-1937	John N Flett, Howan, Dounby	-	-	-
-1938	?
-1939	John Garrioch, Breckan, Evie	2yo heifer in calf	-	By Beaufort Legion.
-1940	No show due to war.
-1941	No show due to war.
-1942	No show due to war.
-1943	No show due to war.
-1944	No show due to war.
-1945	?
-1946	?
-1947	?
-1948	T. Zawadski, Bu, Orphir	Bull	-	White.
-1949	T. Zawadski, Bu, Orphir	Bull	-	-
-1950	P. Davidson, Skaill, Sandwick	4yo bull	Ashcreavie White Knight	Bought by Philorth herd at Perth for 800gns; bought by Skaill from Philorth; supreme champion 1950-1952.
-1951	P. Davidson, Skaill, Sandwick	5yo bull	Ashcreavie White Knight
-1952	P. Davidson, Skaill, Sandwick	6yo bull	Ashcreavie White Knight
-1953	?
-1954	Messrs Flett Bros, Kingshouse, Harray	5yo cow	-	By Ashcreavie White Knight; bred at Philorth; roan; supreme champion 1954.
 1955	Messrs Flett Bros, Kingshouse, Harray	-	-	-
-1956	Messrs Flett Bros, Kingshouse, Harray	7yo cow	Appleblossom	By Ashcreavie White Knight; it is not clear if this is the same animal as in 1954.
+1956	Messrs Flett Bros, Kingshouse, Harray	7yo cow	Appleblossom	By Ashcreavie White Knight; it is not clear if this is the same animal that was supreme champion in 1954.
 1957	J. G. Garrioch, Breckan, Evie	1yo heifer*	-	By Calrossie Claymore; white.
 1958	J. G. Garrioch, Breckan, Evie	2yo heifer	-	It is not clear if this is the same animal as last year.
 1959	A. J. D. Spence, Cavan, Birsay	9yo cow	-	-
@@ -33,37 +14,43 @@ Year	Exhibitor	Champion	Name	Notes
 1967	C. & S. Meadows, Gairsty, Marwick	1yo heifer	-	By Ardbennie Hyperion; bred by A. J. D. Spence, Cavan, Birsay and given by her as a wedding present.
 1968	G. R. T. Scarth & Co, Twatt Farm, Birsay	Bull calf*	-	By Burnton Concord, out of Cavans Waterloo Primula.
 1969	A. J. D. Spence, Cavan, Birsay	6yo cow*	Cavans Princess Edna	By Burnton Skybolt.
-1970	E. J. Sinclair, Holland, Finstown	8yo bull	Marden Best	By Findowerie Alls Well, out of Marden Broadhooks 22nd; bred by Sir Peter Greenwell, Woodbridge, Suffolk; bought privately in February 1970 from John M. Sleigh, Tarves, Aberdeenshire; former prize winner at Royal Highland. 
+1970	E. J. Sinclair, Holland, Finstown	8yo bull	Marden Best	By Findowerie Alls Well, out of Marden Broadhooks 22nd; bred by Sir Peter Greenwell, Woodbridge, Suffolk; bought privately in February 1970 from John M. Sleigh, Tarves, Aberdeenshire; former prize winner at Royal Highland.
 1971	A. K. Work, Queenamoan, Sandwick	6yo cow*	Queenamoan Augusta Arlene	By Easter Lovat Brando.
 1972	J. Work, Easthouse, Dounby	1yo heifer*	-	By Queenamoan Broadstairs; white.
 1973	J. Traill Thomson, Garson, Stromness	4yo bull	Woodhead Diamond	By Denend Golden Miller, out of Woodhead Gold Crocus; red roan.
-1974	J. Traill Thomson, Garson, Stromness	5yo bull	Woodhead Diamond	
+1974	J. Traill Thomson, Garson, Stromness	5yo bull	Woodhead Diamond
 1975	S. & P. Davidson, Skaill Farm, Sandwick	5yo bull	Penan Mormond	By Penan King's Coronet; bred by Watt Taylor, Fraserburgh; roan.
 1976	A. K. Work, Queenamoan, Sandwick	9yo cow*	Queenamoan Brawith Bessie	By Ardbennie Hyperion.
-1977	A. K. Work, Queenamoan, Sandwick	10yo cow*	Queenamoan Brawith Bessie	
+1977	A. K. Work, Queenamoan, Sandwick	10yo cow*	Queenamoan Brawith Bessie
 1978	L. Muir, Summerdale, Stenness	3yo cow	Allander Princess Royal	By Chapleton Pathfinder; bought at Perth in October 1977 for 280gns.
 1979	G. R. T. Scarth & Co, Twatt Farm, Birsay	4yo cow in calf*	Cavans Waterloo Laura	By Newton Talisman, out of Cavans Waterloo Pansy; supreme champion in 1982.
-1980	G. R. T. Scarth & Co, Twatt Farm, Birsay	5yo cow in calf*	Cavans Waterloo Laura	
+1980	G. R. T. Scarth & Co, Twatt Farm, Birsay	5yo cow in calf*	Cavans Waterloo Laura
 1981	G. R. T. Scarth & Co, Twatt Farm, Birsay	1yo heifer*	Cavans Waterloo Lavender	By Mandalong Super Elephant, out of Cavans Waterloo Laura.
 1982	G. R. T. Scarth & Co, Twatt Farm, Birsay	7yo cow*	Cavans Waterloo Laura	By Newton Talisman, out of Cavans Waterloo Pansy; supreme champion in 1982.
-1983	G. R. T. Scarth & Co, Twatt Farm, Birsay	8yo cow in milk*	Cavans Waterloo Laura	
-1984	G. R. T. Scarth & Co, Twatt Farm, Birsay	9yo cow*	Cavans Waterloo Laura	
+1983	G. R. T. Scarth & Co, Twatt Farm, Birsay	8yo cow in milk*	Cavans Waterloo Laura
+1984	G. R. T. Scarth & Co, Twatt Farm, Birsay	9yo cow*	Cavans Waterloo Laura &
 1985	L. Wilson & Co, Quoynamoan, Stenness	5yo bull	Uppermill Rugby	By Kiwi Commandant, out of Rapture.
 1986	G. R. T. Scarth & Co, Twatt Farm, Birsay	9yo cow in calf*	Cavans Waterloo Jubilee	By Webollabolla Royal Commission, out of Cavans Waterloo Petal.
 1987	I. Craigie & Co, Hall of Clestrain	4yo bull	Woodhead Wallace	By Newton Timothy, out of Woodhead Fair Clipper; bought at Perth in 1985.
 1988	Messrs Davidson, Skaill Farm, Sandwick	3yo bull	Glenisla Warlord	By Balmyle Universe, out of Balmyle Genoa 4th; reserve junior champion at Perth February 1987, bought for 2600gns; supreme champion in 1988 and 1989.
-1989	Messrs Davidson, Skaill Farm, Sandwick	4yo bull	Glenisla Warlord	
+1989	Messrs Davidson, Skaill Farm, Sandwick	4yo bull	Glenisla Warlord
 1990	Messrs Scarth, Twatt & Wylie, Sandwick	4yo bull	Balmyle Zephyr	By Balmyle Scorpio, out of Balmyle Tessa 5th; reserve champion at Perth in 1988, bought for 2800 gns.
-1991	Messrs Scarth, Twatt & Wylie, Sandwick	5yo bull	Balmyle Zephyr	
+1991	Messrs Scarth, Twatt & Wylie, Sandwick	5yo bull	Balmyle Zephyr &
 1992	G. R. T. Scarth & Co, Twatt Farm, Birsay	9yo cow in milk	Balmyle Kernel 3rd	By Balmyle Scorpio, out of Balmyle Kernel; bought at Balmyle dispersal sale in 1990.
-1993	G. R. T. Scarth & Co, Twatt Farm, Birsay	10yo cow in milk	Balmyle Kernel 3rd	
+1993	G. R. T. Scarth & Co, Twatt Farm, Birsay	10yo cow in milk	Balmyle Kernel 3rd
 1994	R. Sabiston, Lighthouse, Firth	6yo bull	Cornquoy Rob Roy	By Balmyle Warpath, out of Rothes Janet; bred by J. & J. Smith, Cornquoy, Holm.
 1995	G. R. T. Scarth & Co, Twatt Farm, Birsay	6yo cow*	Cavans Princess Clarrisa	By Balmyle Zephyr, out of Cavans Princess Annette.
-1996	G. R. T. Scarth & Co, Twatt Farm, Birsay	7yo cow*	Cavans Princess Clarrisa	
-1997	L. Muir, Midhouse, Harray	8yo cow*	Midhouse Hannah	By Glenisla Warlord, out of Ardbennie Hosanna.
-1998	L. Muir, Midhouse, Harray	9yo cow*	Midhouse Hannah	
 1999	G. R. T. Scarth & Co, Twatt Farm, Birsay	2.5yo bull	Chapleton Masterkey	By Tofts Romany, out of Chapleton Broadhooks H1; bought at Perth February 1999 for joint top price of 3500gns.
+1996	G. R. T. Scarth & Co, Twatt Farm, Birsay	7yo cow*	Cavans Princess Clarrisa
+1997	L. Muir, Midhouse, Harray\sindex[exhibitor]	8yo cow*	Midhouse Hannah	By Glenisla Warlord, out of Ardbennie Hosanna.
+1998	L. Muir, Midhouse, Harray	9yo cow*	Midhouse Hannah
 2000	G. R. T. Scarth & Co, Twatt Farm, Birsay	4yo cow in milk*	Cavans Waterloo Linda	By Balmyle Dynamo, out of Cavans Waterloo Clover.
-2001	No show due to Foot & Mouth outbreak.	
+2001	No show due to Foot & Mouth outbreak.
 2002	G. R. T. Scarth & Co, Twatt Farm, Birsay	4yo cow in milk*	Cavans Waterloo Norma	By Balmyle Dynamo, out of Cavans Waterloo Clover.
 2003	J. C. Budge & Co, Burnhouse, Longhope	2.5yo bull	Holmeere Alistair	By Chapleton Everest, out of Glenisla Unaclipper; bought at Perth February 2003 from Wells Farm, Wolverhampton. First entry from the isles.
+2004	J. C. Budge & Co, Burnhouse, Longhope	3 12yo bull	Holmeere Alastair
+2005	G. R. T. Scarth & Co., Twatt Farm, Birsay	2yo bull*	Cavans Winston	By Glenisla Rannoch, out of Cavans Waterloo Magic.
+2006	G. R. T. Scarth & Co., Twatt Farm, Birsay	17mo bull*	Cavans Boeing Y747	By Glenisla Rannoch, out of Cavans Waterloo Snowdrop S241.
+2007	No Show due to Foot & Mouth outbreak.
+2008	Eric Heddle, East Moaness, Lyness	3yo bull	Trunley Rustler	By Trunley Timber, out of Trunley Lillian Russet; champion SH at County Show.
+2009	G. R. T. Scarth & Co., Twatt Farm, Birsay	6yo cow-in-milk*	Cavans Princess Winnie	By Glenisla Rannoch, out of Cavans Princess Royal.

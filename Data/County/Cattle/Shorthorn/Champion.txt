@@ -7,21 +7,21 @@ Year	Exhibitor	Champion	Name	Notes
 1975	S. & P. Davidson, Skaill Farm, Sandwick	5yo bull	Penan Mormon	By Penan King's Coronet; bred by Watt Taylor, Fraserburgh.
 1976	A. K. Work, Queenamoan, Sandwick	9yo cow*	Queenamoan Bessie	By Ardbennie Hyperion.
 1977	J. W. S. Wishart, Knockhall, South Ronaldsay	6yo cow*	-	By Ardbennie Saint, out of Cavans Princess Eliza.
-1978	J. W. S. Wishart, Knockhall, South Ronaldsay	7yo cow*	-	By Ardbennie Saint, out of Cavans Princess Eliza.
+1978	J. W. S. Wishart, Knockhall, South Ronaldsay	7yo cow*	-
 1979	Mrs A. J. D. Spence, Cavan, Birsay	4yo cow*	Cavans Princess Tulip	By Newton Talisman.
 1980	D. Work & Son, Ness, Shapinsay	2yo bull	Fingask Paragon	By Scotsdale Havelock; bought at Perth for 2000gns.
 1981	G. R. T. Scarth & Co, Twatt Farm, Birsay	6yo cow in calf*	Cavans Waterloo Laura	By Newton Talisman, out of Cavans Waterloo Pansy; supreme champion at 1982 Dounby Show.
 1982	J. M. Stevenson, Bu, Orphir	7yo bull	Kai Iwi Commandant	By Kai Iwi Prince Charming; New Zealand bred; bought from Miss Durno, Uppermill, Tarves, Aberdeenshire in October 1981; sire was a previous winner of The Meat and Wool cup, New Zealands highest honour for beef cattle.
 1983	G. R. T. Scarth & Co, Twatt Farm, Birsay	8yo cow in calf*	Cavans Waterloo Laura	By Newton Talisman, out of Cavans Waterloo Pansy; supreme champion at 1982 Dounby Show.
-1984	J. Baillie, Sebay, Tankerness	bull	Orroland Tester	By Calare McCorquodale; bred by W. D. Kennedy. 
-1985	G. R. T. Scarth & Co, Twatt Farm, Birsay	8yo cow in calf	Newton Tulip N23	By Newton Gold Coin, out of Newton Tulip 2nd; bought at Henderson dispersal sale; dam of Newton Timothy, a former champion at Perth bull sale. 
+1984	J. Baillie, Sebay, Tankerness	5yo bull	Orroland Tester	By Calare McCorquodale, out of Woody Hills Hope; bred by W. D. Kennedy; 2nd in class at Perth bull sales October 1981.
+1985	G. R. T. Scarth & Co, Twatt Farm, Birsay	8yo cow in calf	Newton Tulip N23	By Newton Gold Coin, out of Newton Tulip 2nd; bought at Henderson dispersal sale; dam of Newton Timothy, a former champion at Perth bull sale.
 1986	G. R. T. Scarth & Co, Twatt Farm, Birsay	4yo cow in milk*	Cavans Waterloo Belle	By Mandalong Super Elephant, out of Cavans Waterloo Crystal.
 1987	G. R. T. Scarth & Co, Twatt Farm, Birsay	10yo cow*	Cavans Waterloo Jubilee	By Weebolla Bolla Royal Commission, out of Cavans Waterloo Pansy.
 1988	Messrs Davidson, Skaill Farm, Sandwick	3yo bull	Glenisla Warlord	By Balmyle Universe, out of Balmyle Genoa 4th; bought at Perth, February 1987 for 2600gns; reserve junior champion at Perth; supreme champion in 1988.
-1989	Messrs Davidson, Skaill Farm, Sandwick	4yo bull	Glenisla Warlord	By Balmyle Universe, out of Balmyle Genoa 4th; bought at Perth, February 1987 for 2600gns; reserve junior champion at Perth; supreme champion in 1988.
-1990	E. Flett, Hurtiso, Holm	7yo bull	Chapleton Xile	By Balmyle Thunder, out of a Princess Royal cow.
-1991	E. Flett, Hurtiso, Holm	8yo bull	Chapleton Xile	By Balmyle Thunder, out of a Princess Royal cow.
-1992	Taylor Bros, Aikers, South Ronaldsay	9yo bull	Chapleton Xile	By Balmyle Thunder, out of a Princess Royal cow.
+1989	Messrs Davidson, Skaill Farm, Sandwick	4yo bull	Glenisla Warlord
+1990	E. Flett, Hurtiso, Holm	7yo bull	Chapleton Xile	By Balmyle Timebomb, out of a Chapleton Princess R13; supreme champion at February 1986 Perth bull sale.
+1991	E. Flett, Hurtiso, Holm	8yo bull	Chapleton Xile
+1992	Taylor Bros, Aikers, South Ronaldsay	9yo bull	Chapleton Xile
 1993	G. R. T. Scarth & Co, Twatt Farm, Birsay	3yo cow*	Cavans Waterloo Demelza	By Balmyle Zephyr, out of Cavans Waterloo Zandra; dam out of Cavans Waterloo Laura, champion in 1981 and 1983.
 1994	E. & I. Kemp, Greenhall, Deerness	2yo heifer in calf*	Greenhall Elaine	By Nearhouse Romar, out of Greenhall Eileen.
 1995	E. Flett, Hurtiso, Holm	3yo bull	Balmyle Sovereign	By Balmyle Universe, out of Balmyle Tessa.
@@ -29,8 +29,15 @@ Year	Exhibitor	Champion	Name	Notes
 1997	G. R. T. Scarth & Co, Twatt Farm, Birsay	8yo cow in milk*	Cavans Princess Clarrisa	By Balmyle Zephyr, out of Cavans Princess Annette.
 1998	J. M. Lennie & Co, Nearhouse, Tankerness	6yo bull	Moncrieff Snowline	By Balmyle Sovereign, out of Balmyle Tessa 21st.
 1999	G. R. T. Scarth & Co, Twatt Farm, Birsay	2.5yo bull	Chapleton Masterkey	By Tofts Romany, out of Chapleton Broadhooks H1.
-2000	G. R. T. Scarth & Co, Twatt Farm, Birsay	3yo bull	Chapleton Masterkey	By Tofts Romany, out of Chapleton Broadhooks H1.
+2000	G. R. T. Scarth & Co, Twatt Farm, Birsay	3yo bull	Chapleton Masterkey
 2001	No Show due to Foot & Mouth outbreak.
 2002	G. R. T. Scarth & Co, Twatt Farm, Birsay	4yo cow in milk*	Cavans Waterloo Norma	By Balmyle Dynamo, out of Cavans Waterloo Clover.
 2003	J. M. Lennie & Co, Nearhouse, Tankerness	7yo cow*	Nearhouse Just	By Chapleton Fulcrum, out of Nearhouse June.
-2004	J. M. Lennie & Co, Nearhouse, Tankerness	21mo bull*	Nearhouse James	By Balmyle Crackle, out of Nearhouse Jill
+2004	J. M. Lennie & Co, Nearhouse, Tankerness	21mo bull*	Nearhouse James	By Balmyle Crackle, out of Nearhouse Jill.
+2005	J. M. Lennie & Co, Nearhouse, Tankerness	19mo bull*	Nearhouse Rob Roy	By Balmyle Crackle, out of Nearhouse Rhona.
+2006	G. R. T. Scarth & Co, Twatt Farm, Birsay	17mo bull*	Cavans Boeing Y747	By Glenisla Rannoch, out of Cavans Waterloo Snowdrop S241.
+2007	No Show due to Foot & Mouth outbreak.
+2008	Eric Heddle, East Moaness, Lyness	3yo bull	Trunley Rustler	By Trunley Timber, out of Trunley Lillian Russet; champion SH at Dounby Show.
+2009	E. Flett, Hurtiso, Holm	6yo bull&	Nearhouse James	By Balmyle Crackle, out of Nearhouse Jill.
+2010	E. Flett, Hurtiso, Holm	5yo cow-in-milk&	Hurtiso Yesnaby	By Millerston Sea Eagle, out of Hurtiso Catherine.
+2011	E. Flett, Hurtiso, Holm	4yo SH bull	Uppermill Bavarian	By Hurtiso Caan, out of Uppermill Buttercup.

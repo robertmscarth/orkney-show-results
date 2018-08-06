@@ -3,7 +3,7 @@ Year	Exhibitor	Champion	Name	Notes
 1979	No entries forward.
 1980	W. R. Baillie, Biggings, Toab	6yo bull	Wincote Jasper	By Bent Caribineer; bred by Lord Nelson of Stafford; bought at Northampton for 950gns; supreme champion in 1978 & 1982.
 1981	W. R. Baillie, Biggings, Toab	7yo bull	Wincote Jasper
-1982	W. R. Baillie, Biggings, Toab	8yo bull	Wincote Jasper	
+1982	W. R. Baillie, Biggings, Toab	8yo bull	Wincote Jasper
 1983	W. R. Baillie, Biggings, Toab	-	-	-
 1984	W. R. Baillie, Biggings, Toab	10mo bull*	Ballieston Universe	By Wincote Jasper, out of Sway Ninette.
 1985	G. T. & S. Coghill, Muce, Birsay	3yo cow in calf	Mornview Tamar	By Tattenhall Hublot, out of a Mornview cow.
@@ -17,7 +17,7 @@ Year	Exhibitor	Champion	Name	Notes
 1993	W. R. Baillie, Biggings, Toab	18mo heifer*	Ballieston Helga	By Ballieston Donald, out of Ballieston Catherine.
 1994	W. R. Baillie, Biggings, Toab	18mo bull*	Ballieston Howard	By Cockrington Baron, out of Ballieston Frances.
 1995	W. R. Baillie, Biggings, Toab	15mo heifer*	Ballieston Jacqueline	By Fleets Rascal, out of Ballieston Donna.
-1996	W. R. Baillie, Biggings, Toab	20mo heifer*	Ballieston Jacqueline	By Fleets Rascal, out of Ballieston Donna.
+1996	W. R. Baillie, Biggings, Toab	20mo heifer*	Ballieston Jacqueline
 1997	J. A. Scott, Howe, Harray	6yo bull	Seawell Goutte	By Seawell Caribbean; bought at Perth as a 13mo.
 1998	G. T. & S. Coghill, Muce, Birsay	5yo cow in milk	New Moan Iris	By Balthayoak Dalesman, out of New Moan Emma; bought from Jim Isbister, New Moan, Harray, in October 1997.
 1999	Garson Farms, Sandwick	6yo cow*	Garson Isla	By Brampton Consort, out of Gredington Caniche.
@@ -25,3 +25,11 @@ Year	Exhibitor	Champion	Name	Notes
 2001	No Show due to Foot & Mouth outbreak.
 2002	L. Spence, Spengar, Sandwick	16mo bull*	Spengar Sambhar	By Brampton Four Star, out of Mortimer's Lauren.
 2003	Garson Farms, Sandwick	1yo heifer	Airdlin Treasure	By Airdlin Ploughman, out of Maerdy Limpet; bought at Perth February 2003.
+2004	W. R. Baillie, Biggings, Toab	17mo heifer*	Baillieston Topsy	By Moyness President, out of Ballieston Maiden.
+2005	Messrs Davidson, Skaill, Sandwick	16mo bull*	Skaill Victor	By Offenbach, out of Rosette; supreme champion 2005.
+2006	Messrs Davidson, Skaill, Sandwick	16mo heifer*	Skaill Abbie	By Nectragerc, out of Perche; supreme champion, 2006; supreme champion at 2006 Dounby Show.
+2007	No Show due to Foot & Mouth outbreak.
+2008	W. R. Baillie, Biggings, Toab	2yo heifer*	Baillieston Anthea	By Mowbraypark Umpire, out of Baillieston Umbreta; supreme champion.
+2009	W. R. Baillie, Biggings, Toab	5yo cow-in-milk*	Baillieston Vera	By Moyness President, out of Baillieston Ola; supreme champion.
+2010	J. M. Lennie & Co, Nearhouse, Tankerness	4yo bull*	Nearhouse Bobby	By Fremch bull Oscar, out of Brymire Ola.
+2011
