@@ -30,3 +30,7 @@ for(i in c(1:nrow(index))){
 # Write out the full set of prize winners to a text file, with variables separated by tabs
 outputFilePath = paste( wd , outputFolder , outputFileName , sep="" )
 write_tsv( prizeWinners , outputFilePath )
+
+# Get list of exhibitors
+ExhibitorList = as_tibble(sort(unique(prizeWinners$Exhibitor)))
+SplitExhibitorList = separate(ExhibitorList,value,sep=",",c("Name","Farm","Parish"))
