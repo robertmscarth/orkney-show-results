@@ -4,6 +4,7 @@ Code/LaTeXTableMaker/local/
 Code/StripTabs/local/
 Code/StripTeX/local/
 Data/Generated/
+Data/Entries/local/
 old/
 
 # ignore files with the following extensions as they are automatically created by TeX
@@ -17,6 +18,7 @@ old/
 *.pdf
 *.gz
 *.toc
-*.Rhistory
 
+# ignore R history file
+*.Rhistory
 
