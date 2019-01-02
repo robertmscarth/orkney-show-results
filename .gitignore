@@ -5,6 +5,7 @@ Code/StripTabs/local/
 Code/StripTeX/local/
 Data/Generated/
 Data/Entries/local/
+Tex/Images/Graphs/
 old/
 
 # ignore files with the following extensions as they are automatically created by TeX

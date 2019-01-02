@@ -12,6 +12,7 @@ sortOrderCategoryFileName = "SortOrder_Category"
 outputFolder = "/Data/Generated/"
 outputFileName1 = "AggregatedEntries1.tsv"
 outputFileName2 = "AggregatedEntries2.tsv"
+outputFileName3 = "AggregatedEntries3.tsv"
 
 # Read in the tsv file containing the entries by class
 entriesByClass = read_tsv( paste( baseFilePath , fileName , sep="" ) )
@@ -32,28 +33,49 @@ NumEntries <- NumEntries %>%
   inner_join( aggregationMaps , by = c( "Show"="Show" , "Category"="Category" , "Section Name"="Section" ) )
 
 # Group by Year, Show, "Aggregation 2", and "Aggregation 1" and then sum to get the totals
-AggNumEntries1 <- NumEntries %>% 
-  group_by(Year,Show,`Aggregation 2`,`Aggregation 1`) %>% 
+AggNumEntries1 <- NumEntries %>%
+  filter( `Aggregation 1` != "NA" ) %>%
+  group_by(Year,`Aggregation 3`,`Aggregation 2`,`Aggregation 1`) %>% 
   summarise(NumEntries=sum(NumEntries))
-AggNumEntries2 <- AggNumEntries1 %>% 
-  group_by(Year,Show,`Aggregation 2`) %>% 
+AggNumEntries2 <- AggNumEntries1 %>%
+  filter( `Aggregation 2` != "NA" ) %>%
+  group_by(Year,`Aggregation 3`,`Aggregation 2`) %>% 
+  summarise(NumEntries=sum(NumEntries))
+AggNumEntries3 <- AggNumEntries2 %>%
+  filter( `Aggregation 3` != "NA" ) %>%
+  group_by(Year,`Aggregation 3`) %>%
   summarise(NumEntries=sum(NumEntries))
 
-# Re-name the columns "Aggreation 1" and "Aggregation 2" to something more meaningful
-AggNumEntries1 <- AggNumEntries1 %>% rename("Section"="Aggregation 1","Category"="Aggregation 2")
-AggNumEntries2 <- AggNumEntries2 %>% rename("Category"="Aggregation 2")
+# Re-name the columns "Aggreation 1", "Aggregation 2", and "Aggregation 3" to something more meaningful
+AggNumEntries1 <- AggNumEntries1 %>% rename("Show"="Aggregation 3","Section"="Aggregation 1","Category"="Aggregation 2")
+AggNumEntries2 <- AggNumEntries2 %>% rename("Show"="Aggregation 3","Category"="Aggregation 2")
+AggNumEntries3 <- AggNumEntries3 %>% rename("Show"="Aggregation 3")
 
-# Sort the data
+# add columns for the sort order
 AggNumEntries1 <- AggNumEntries1 %>%
-  arrange(desc(-1*Year))
+  inner_join( sortOrderShow , "Show" = "Show" ) %>%
+  inner_join( sortOrderCategory , "Category" = "Category" )
 AggNumEntries2 <- AggNumEntries2 %>%
-  arrange(desc(-1*Year))
+  inner_join( sortOrderShow , "Show" = "Show" ) %>%
+  inner_join( sortOrderCategory , "Category" = "Category" )
+AggNumEntries3 <- AggNumEntries3 %>%
+  inner_join( sortOrderShow , "Show" = "Show" )
+
+# Sort the data and remove the columns containing the sort order
+AggNumEntries1 <- AggNumEntries1 %>%
+  arrange( desc( -1*ShowOrder ) , desc( -1*Year ) , desc( -1*CatOrder ) ) %>%
+  select( -ShowOrder , -CatOrder )
+AggNumEntries2 <- AggNumEntries2 %>%
+  arrange( desc( -1*ShowOrder ) , desc( -1*Year ) , desc( -1*CatOrder ) ) %>%
+  select( -ShowOrder , -CatOrder )
+AggNumEntries3 <- AggNumEntries3 %>%
+  arrange( desc( -1*ShowOrder ) , desc( -1*Year ) ) %>%
+  select( -ShowOrder )
 
 # Write out the aggregations to .tsv files
 outputFilePath1 = paste( wd , outputFolder , outputFileName1 , sep="" )
 outputFilePath2 = paste( wd , outputFolder , outputFileName2 , sep="" )
+outputFilePath3 = paste( wd , outputFolder , outputFileName3 , sep="" )
 write_tsv( AggNumEntries1 , outputFilePath1 )
 write_tsv( AggNumEntries2 , outputFilePath2 )
-
-# For each show, create a graph showing the entries by year for each aggregation class
-### do this in a separate script
+write_tsv( AggNumEntries3 , outputFilePath3 )
