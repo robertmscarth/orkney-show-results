@@ -9,9 +9,9 @@ genDataFolder = "/Data/Generated/"
 NumEntriesByCatFileName = "AggregatedEntries2.tsv"
 TotalEntriesFileName = "AggregatedEntries3.tsv"
 outputFolder = "/TeX/Images/Graphs/"
-CountyEntriesFileName = "CountyByCategory.pdf"
-DounbyEntriesFileName = "DounbyByCategory.pdf"
-TotalByShowFileName = "TotalByShow.pdf"
+CountyEntriesFileName = "CountyByCategory.png"
+DounbyEntriesFileName = "DounbyByCategory.png"
+TotalByShowFileName = "TotalByShow.png"
 
 # Read in the tsv file containing the entries by class
 NumEntriesByCat = read_tsv( paste( wd , genDataFolder , NumEntriesByCatFileName , sep="" ) )
