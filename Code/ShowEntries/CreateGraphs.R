@@ -29,7 +29,7 @@ CountyPlot <- ggplot(data=CountyEntries , aes(Year,NumEntries)) +
   geom_line(aes(colour=Category)) +
   geom_point(aes(colour=Category)) +
   expand_limits(y=0) +
-  labs( title = "County Show entries by Category" , y="Entries" )
+  labs( title = "County Show entries by Category 2002-2018" , y="Entries" )
 ggsave( plot = CountyPlot , paste( wd , outputFolder , CountyEntriesFileName , sep="" ) , width = 6 , heigh = 6 * 0.618 )
 
 # Create and save plot of Dounby show entries by category
@@ -38,7 +38,7 @@ DounbyPlot <- ggplot(data=DounbyEntries , aes(Year,NumEntries)) +
   geom_line(aes(colour=Category)) +
   geom_point(aes(colour=Category)) +
   expand_limits(y=0) +
-  labs( title = "Dounby Show entries by Category" , y="Entries" )
+  labs( title = "Dounby Show entries by Category 2002-2018" , y="Entries" )
 ggsave( plot = DounbyPlot , paste( wd , outputFolder , DounbyEntriesFileName , sep="" ) , width = 6 , heigh = 6 * 0.618 )
 
 # Create and save plot of total entries by show for the County and Dounby shows
@@ -47,5 +47,5 @@ TotalPlot <- ggplot(data=TotalEntries , aes(Year,NumEntries)) +
   geom_line(aes(colour=Show)) +
   geom_point(aes(colour=Show)) +
   expand_limits(y=0) +
-  labs( title = "Total entries by show" , y="Entries" )
+  labs( title = "Total entries by show 2002-2018" , y="Entries" )
 ggsave( plot = TotalPlot , paste( wd , outputFolder , TotalByShowFileName , sep="" ) , width = 6 , heigh = 6 * 0.618 )
