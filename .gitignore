@@ -19,6 +19,7 @@ old/
 *.pdf
 *.gz
 *.toc
+*.png
 
 # ignore R history file
 *.Rhistory
