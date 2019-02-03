@@ -28,7 +28,7 @@ TotalEntries = read_tsv( paste( wd , genDataFolder , TotalEntriesFileName , sep=
 # NumEntries will be the vertical axis
 # There will be a line for each Category
 
-# Create and save plot of total entries by show for the County and Dounby shows
+# Create and save plot of total entries by show for each show in ShowList
 TotalEntries <- TotalEntries %>% filter(Show %in% ShowList,Year %in% YearList)
 PlotTitle = paste( "Total entries by show " , YearString , sep="" )
 TotalPlot <- ggplot(data=TotalEntries , aes(Year,NumEntries)) + 
@@ -57,7 +57,7 @@ for (ShowName in ShowList){
 for(ShowName in ShowList){
   ShowNumEntries = DetailedNumEntries %>% filter(Show==ShowName,Year %in% YearList)
   ShowCategories = ShowNumEntries %>% select(Category) %>% unique()
-  for(CatName in ShowCategories){
+  for(CatName in ShowCategories[[1]]){
     CatNumEntries = ShowNumEntries %>% filter(Category==CatName)
     PlotTitle = paste( ShowName , " Show " , CatName , " entries by section " , YearString , sep="" )
     CatPlot <- ggplot(data=CatNumEntries , aes(Year,NumEntries)) + 
