@@ -27,3 +27,6 @@ TotalEntries = read_tsv( paste( wd , genDataFolder , TotalEntriesFileName , sep=
 ShowList = TotalEntries %>% select(Show) %>% unique()
 YearList = TotalEntries %>% select(Year) %>% unique() %>% arrange(desc(-1 * Year))
 
+# create a table with columns headed by Show containing the number of entries
+TotalEntriesTable = TotalEntries %>% spread(Show,NumEntries)
+
